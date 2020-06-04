@@ -1,0 +1,2603 @@
+{
+    "web_trans": {
+        "web-translation": [
+            {
+                "@same": "true",
+                "key": "Test",
+                "key-speech": "Test",
+                "trans": [
+                    {
+                        "summary": {
+                            "line": [
+                                "实现（Implementation）：定义代码的组织结构、实现代码、单元<b>测试</b>、系统集成。<b>测试</b>（<b>Test</b>）：校验各自子系统的交互与集成。确保所有的需求被正确实现并在系统发布前发现错误。"
+                            ]
+                        },
+                        "value": "测试",
+                        "support": 5022,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "• 分辨最佳表现与常态表现 性向及能力<b>测验</b>（ Tests）： - 性向及能力<b>测验</b>（Aptitudes & Ability Tests）： 语言、计算、操作、分辨、阅读、学习能力……"
+                            ]
+                        },
+                        "value": "测验",
+                        "support": 1952,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "E<b>试验</b>（E-<b>test</b>）是指浓度梯度琼脂扩散<b>试验</b>，其原理基本同扩散法，即浓度呈连续梯度的抗菌药物从塑料试条中向琼脂中扩散，在试条周围抑菌浓度范围..."
+                            ]
+                        },
+                        "cls": {
+                            "cl": [
+                                "化验"
+                            ]
+                        },
+                        "value": "试验",
+                        "support": 1884,
+                        "url": ""
+                    },
+                    {
+                        "summary": {
+                            "line": [
+                                "职业韩国语水平<b>考试</b>（OK-<b>TEST</b>）是针对母语非韩国语的外国人，并且希望到韩国企业就业，或者从事商业活动的人士。"
+                            ]
+                        },
+                        "value": "考试",
+                        "support": 1696,
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "key": "Test engineer",
+                "key-speech": "Test+engineer",
+                "trans": [
+                    {
+                        "value": "测试工程师"
+                    },
+                    {
+                        "value": "测试员"
+                    },
+                    {
+                        "value": "软件测试工程师"
+                    },
+                    {
+                        "value": "产品试验工程师"
+                    }
+                ]
+            },
+            {
+                "key": "Stress Test",
+                "key-speech": "Stress+Test",
+                "trans": [
+                    {
+                        "value": "压力测试"
+                    },
+                    {
+                        "value": "应力测试"
+                    },
+                    {
+                        "value": "负荷试验"
+                    },
+                    {
+                        "value": "压力试验"
+                    }
+                ]
+            },
+            {
+                "key": "test item",
+                "key-speech": "test+item",
+                "trans": [
+                    {
+                        "value": "试验项目"
+                    },
+                    {
+                        "cls": {
+                            "cl": [
+                                "试验"
+                            ]
+                        },
+                        "value": "测试项目"
+                    },
+                    {
+                        "value": "检验项目"
+                    },
+                    {
+                        "value": "测验项目"
+                    }
+                ]
+            },
+            {
+                "key": "orthogonal test",
+                "key-speech": "orthogonal+test",
+                "trans": [
+                    {
+                        "cls": {
+                            "cl": [
+                                "农学"
+                            ]
+                        },
+                        "value": "正交试验"
+                    },
+                    {
+                        "value": "正交实验"
+                    },
+                    {
+                        "value": "正交实验法"
+                    },
+                    {
+                        "value": "正交设计"
+                    }
+                ]
+            },
+            {
+                "key": "sign test",
+                "key-speech": "sign+test",
+                "trans": [
+                    {
+                        "cls": {
+                            "cl": [
+                                "统计"
+                            ]
+                        },
+                        "value": "符号检验"
+                    },
+                    {
+                        "value": "符号检定"
+                    },
+                    {
+                        "value": "符号测验"
+                    },
+                    {
+                        "cls": {
+                            "cl": [
+                                "计"
+                            ]
+                        },
+                        "value": "符号测试"
+                    }
+                ]
+            },
+            {
+                "key": "test specimen",
+                "key-speech": "test+specimen",
+                "trans": [
+                    {
+                        "cls": {
+                            "cl": [
+                                "材",
+                                "机"
+                            ]
+                        },
+                        "value": "试样"
+                    },
+                    {
+                        "value": "试件"
+                    },
+                    {
+                        "value": "检测试样"
+                    }
+                ]
+            },
+            {
+                "key": "Nonparametric test",
+                "key-speech": "Nonparametric+test",
+                "trans": [
+                    {
+                        "cls": {
+                            "cl": [
+                                "数",
+                                "数"
+                            ]
+                        },
+                        "value": "非参数检验"
+                    },
+                    {
+                        "value": "非参数测定"
+                    },
+                    {
+                        "cls": {
+                            "cl": [
+                                "数"
+                            ]
+                        },
+                        "value": "非参数检定"
+                    },
+                    {
+                        "value": "检验方法"
+                    }
+                ]
+            },
+            {
+                "key": "Test management",
+                "key-speech": "Test+management",
+                "trans": [
+                    {
+                        "value": "测试管理"
+                    },
+                    {
+                        "value": "卷管理"
+                    },
+                    {
+                        "value": "考试管理"
+                    }
+                ]
+            }
+        ]
+    },
+    "ee": {
+        "source": {
+            "name": "WordNet",
+            "url": "http://wordnet.princeton.edu"
+        },
+        "word": {
+            "trs": [
+                {
+                    "pos": "n.",
+                    "tr": [
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "the test was standardized on a large sample of students"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "mental test"
+                                },
+                                {
+                                    "similar": "mental testing"
+                                },
+                                {
+                                    "similar": "psychometric test"
+                                }
+                            ]
+                        },
+                        {
+                            "l": {
+                                "i": "the act of testing something"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "trial"
+                                },
+                                {
+                                    "similar": "run"
+                                }
+                            ]
+                        },
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "he survived the great test of battle"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "the act of undergoing testing"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "trial"
+                                }
+                            ]
+                        },
+                        {
+                            "l": {
+                                "i": "trying something to find out about it"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "trial"
+                                },
+                                {
+                                    "similar": "trial run"
+                                },
+                                {
+                                    "similar": "tryout"
+                                }
+                            ]
+                        },
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "when the test was stolen the professor had to make a new set of questions"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "a set of questions or exercises evaluating skill or knowledge"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "examination"
+                                },
+                                {
+                                    "similar": "exam"
+                                }
+                            ]
+                        },
+                        {
+                            "l": {
+                                "i": "a hard outer covering as of some amoebas and sea urchins"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "pos": "v.",
+                    "tr": [
+                        {
+                            "l": {
+                                "i": "put to the test, as for its quality, or give experimental use to"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "prove"
+                                },
+                                {
+                                    "similar": "try"
+                                },
+                                {
+                                    "similar": "try out"
+                                },
+                                {
+                                    "similar": "examine"
+                                },
+                                {
+                                    "similar": "essay"
+                                }
+                            ]
+                        },
+                        {
+                            "l": {
+                                "i": "test or examine for the presence of disease or infection"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "screen"
+                                }
+                            ]
+                        },
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "The teacher tests us every week"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "examine someone's knowledge of something"
+                            },
+                            "similar-words": [
+                                {
+                                    "similar": "quiz"
+                                }
+                            ]
+                        },
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "He tested positive for HIV"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "show a certain characteristic when tested"
+                            }
+                        },
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "She tested high on the LSAT and was admitted to all the good law schools"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "achieve a certain score or rating on a test"
+                            }
+                        },
+                        {
+                            "l": {
+                                "i": "determine the presence or properties of (a substance)"
+                            }
+                        },
+                        {
+                            "exam": {
+                                "i": {
+                                    "f": {
+                                        "l": [
+                                            {
+                                                "i": "She doesn't test well"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "l": {
+                                "i": "undergo a test"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "phone": "",
+            "speech": "test",
+            "return-phrase": {
+                "l": {
+                    "i": "test"
+                }
+            }
+        }
+    },
+    "blng_sents_part": {
+        "sentence-count": 6,
+        "sentence-pair": [
+            {
+                "sentence": "He has stood up to the test of his honesty.",
+                "sentence-eng": "He has stood up to the <b>test</b> of his honesty.",
+                "sentence-translation": "他已经通过了这次对他是否诚实的考验。",
+                "speech-size": "12kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "4",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "17",
+                                "@e": "19",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "q": [
+                                    {
+                                        "@s": "24",
+                                        "@e": "28"
+                                    }
+                                ],
+                                "@s": "24",
+                                "@e": "28",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "29",
+                                "@e": "31",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "32",
+                                "@e": "35",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            },
+                            {
+                                "@s": "36",
+                                "@e": "43",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "6"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "2",
+                                "@e": "4",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "10",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "10",
+                                "@e": "11",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "15",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "15",
+                                "@e": "16",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            },
+                            {
+                                "@s": "16",
+                                "@e": "18",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ]
+                                },
+                                "@id": "6"
+                            }
+                        ]
+                    }
+                },
+                "url": "http://zuci.chaziwang.com/showci-43456.html",
+                "sentence-speech": "He+has+stood+up+to+the+test+of+his+honesty.&le=eng"
+            },
+            {
+                "sentence": "I failed the test despite studying all night.",
+                "sentence-eng": "I failed the <b>test</b> despite studying all night.",
+                "sentence-translation": "尽管整夜学习，我还是考试不及格。",
+                "speech-size": "13kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "2",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "13",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "q": [
+                                    {
+                                        "@s": "14",
+                                        "@e": "18"
+                                    }
+                                ],
+                                "@s": "14",
+                                "@e": "18",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "19",
+                                "@e": "26",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "27",
+                                "@e": "35",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "36",
+                                "@e": "45",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "3",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "3",
+                                "@e": "5",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "5",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "8",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "13",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "14",
+                                "@e": "16",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            }
+                        ]
+                    }
+                },
+                "url": "http://zuci.chaziwang.com/showci-12628.html",
+                "sentence-speech": "I+failed+the+test+despite+studying+all+night.&le=eng"
+            },
+            {
+                "sentence": "We must run a test before beginning to operate a new machine.",
+                "sentence-eng": "We must run a <b>test</b> before beginning to operate a new machine.",
+                "sentence-translation": "在开始使用一台新机器前必须先进行一次试验。",
+                "speech-size": "17kb",
+                "aligned-words": {
+                    "src": {
+                        "chars": [
+                            {
+                                "@s": "1",
+                                "@e": "8",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "13",
+                                "@e": "14",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        },
+                                        {
+                                            "@id": "7"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "q": [
+                                    {
+                                        "@s": "15",
+                                        "@e": "19"
+                                    }
+                                ],
+                                "@s": "15",
+                                "@e": "19",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "8"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "20",
+                                "@e": "26",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        },
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "27",
+                                "@e": "39",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "50",
+                                "@e": "53",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            },
+                            {
+                                "@s": "54",
+                                "@e": "61",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "6"
+                            }
+                        ]
+                    },
+                    "tran": {
+                        "chars": [
+                            {
+                                "@s": "2",
+                                "@e": "4",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "4"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ]
+                                },
+                                "@id": "0"
+                            },
+                            {
+                                "@s": "6",
+                                "@e": "7",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        },
+                                        {
+                                            "@id": "7"
+                                        }
+                                    ]
+                                },
+                                "@id": "1"
+                            },
+                            {
+                                "@s": "8",
+                                "@e": "9",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ]
+                                },
+                                "@id": "2"
+                            },
+                            {
+                                "@s": "9",
+                                "@e": "11",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ]
+                                },
+                                "@id": "3"
+                            },
+                            {
+                                "@s": "11",
+                                "@e": "12",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        },
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ]
+                                },
+                                "@id": "4"
+                            },
+                            {
+                                "@s": "12",
+                                "@e": "14",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "0"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "5"
+                                        }
+                                    ]
+                                },
+                                "@id": "5"
+                            },
+                            {
+                                "@s": "14",
+                                "@e": "15",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "3"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "4"
+                                        },
+                                        {
+                                            "@id": "6"
+                                        }
+                                    ]
+                                },
+                                "@id": "6"
+                            },
+                            {
+                                "@s": "17",
+                                "@e": "18",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "1"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "1"
+                                        },
+                                        {
+                                            "@id": "7"
+                                        }
+                                    ]
+                                },
+                                "@id": "7"
+                            },
+                            {
+                                "@s": "19",
+                                "@e": "21",
+                                "aligns": {
+                                    "sc": [
+                                        {
+                                            "@id": "2"
+                                        }
+                                    ],
+                                    "tc": [
+                                        {
+                                            "@id": "8"
+                                        }
+                                    ]
+                                },
+                                "@id": "8"
+                            }
+                        ]
+                    }
+                },
+                "url": "http://zuci.chaziwang.com/showci-43314.html",
+                "sentence-speech": "We+must+run+a+test+before+beginning+to+operate+a+new+machine.&le=eng"
+            }
+        ],
+        "more": "blng_sents"
+    },
+    "video_sents": {
+        "sents_data": [
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/17962f35-d9df-4d05-9558-69cf35b169f2.jpg",
+                "contributor": "Cambridge Law Faculty",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:04,740\nIt is a <font color=#FF3D48>test</font> about reasoning; it is a <font color=#FF3D48>test</font> about argumentation.\n\n",
+                "id": 14157,
+                "video": "https://ydschool-video.nosdn.127.net/add03fe0-517c-41b1-a406-48532c09a868.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/1251c4e7-d492-4d79-b85e-f87c7e320872.jpg",
+                "contributor": "Cambridge Law Faculty",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:04,740\nThe Cambridge Law <font color=#FF3D48>Test</font> is a common paper across the Cambridge colleges.\n\n",
+                "id": 14155,
+                "video": "https://ydschool-video.nosdn.127.net/a5a5e449-67b6-4ce5-8ffb-7628e12ae2f5.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/0cef2a37-4010-445e-a900-d7b7731b2c43.jpg",
+                "contributor": "Cambridge Law Faculty",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:04,500\nThat last point that Ben made about the Cambridge Law <font color=#FF3D48>Test</font> is also true of the interview.\n\n",
+                "id": 14161,
+                "video": "https://ydschool-video.nosdn.127.net/f2e61980-fe59-4901-9712-75d18e5ec606.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/2e133735-f3ae-4fc4-b5f4-77430b9a10d6.jpg",
+                "contributor": "Cambridge Law Faculty",
+                "subtitle_srt": "﻿1\n00:00:00,030 --> 00:00:03,030\nThe Cambridge Law <font color=#FF3D48>Test</font> is a one-hour written paper\n\n2\n00:00:03,060 --> 00:00:04,170\nthat you will be asked to take \n\n3\n00:00:04,470 --> 00:00:05,670\nwhen you come for interview. \n\n4\n00:00:06,360 --> 00:00:09,120\nYou don't have to register or sign up for the <font color=#FF3D48>test</font>.\n\n",
+                "id": 14153,
+                "video": "https://ydschool-video.nosdn.127.net/4c36d897-9e34-4cc5-90ea-21cf9423a0eb.mp4"
+            },
+            {
+                "video_cover": "https://ydschool-video.nosdn.127.net/ee63f4be-84eb-4e2b-8e01-df1305113cbb.jpg",
+                "contributor": "He Spoke Style",
+                "subtitle_srt": "1\n00:00:00,000 --> 00:00:03,720\nThat's been my experience over time and these next six items I'm going to share with you,\n\n2\n00:00:04,050 --> 00:00:05,940\ndefinitely stand up to that <font color=#FF3D48>test</font>.\n\n",
+                "id": 8566,
+                "video": "https://ydschool-video.nosdn.127.net/3098e548-33f8-4bbf-966c-4acfe29d9e0d.mp4"
+            }
+        ],
+        "word_info": {
+            "return-phrase": "test",
+            "sense": [
+                "n. 测验，考查；测试",
+                "v. 测验；化验，检查"
+            ]
+        }
+    },
+    "rel_word": {
+        "word": "test",
+        "stem": "test",
+        "rels": [
+            {
+                "rel": {
+                    "pos": "adj.",
+                    "words": [
+                        {
+                            "word": "testing",
+                            "tran": " 试验的；棘手的"
+                        },
+                        {
+                            "word": "tested",
+                            "tran": " 经受过考验的；经验定的"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "n.",
+                    "words": [
+                        {
+                            "word": "testing",
+                            "tran": " [试验] 测试"
+                        },
+                        {
+                            "word": "tester",
+                            "tran": " 天盖；检验器；试验员"
+                        },
+                        {
+                            "word": "testee",
+                            "tran": " 应考人，测验对象"
+                        }
+                    ]
+                }
+            },
+            {
+                "rel": {
+                    "pos": "v.",
+                    "words": [
+                        {
+                            "word": "testing",
+                            "tran": " 测验；考查；受考验（test的ing形式）"
+                        },
+                        {
+                            "word": "tested",
+                            "tran": " 考验（test的过去分词）；测验"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "auth_sents_part": {
+        "sent": [
+            {
+                "score": 0.9831472635269165,
+                "speech": "Daiei+is+these+days+considered+a+test+of+the+government%27s+appetite+for+painful+change.+",
+                "speech-size": "25kb",
+                "source": "ECONOMIST: <i>Japan's banks</i>",
+                "url": "http://www.economist.com/node/922830",
+                "foreign": "Daiei is these days considered a <b>test</b> of the government's appetite for painful change. "
+            },
+            {
+                "score": 0.9831356406211853,
+                "speech": "When+the+technician+wired+all+of+the+16+sensors+for+the+test+backward%2C+Capt.+",
+                "speech-size": "22kb",
+                "source": "FORBES: <i>Applying Murphy's Law To Retirement</i>",
+                "url": "http://www.forbes.com/2010/02/25/davidson-murphys-law-risk-intelligent-investing-retirement.html",
+                "foreign": "When the technician wired all of the 16 sensors for the <b>test</b> backward, Capt. "
+            }
+        ]
+    },
+    "simple": {
+        "query": "test",
+        "word": [
+            {
+                "usphone": "test",
+                "ukphone": "test",
+                "ukspeech": "test&type=1",
+                "return-phrase": "test",
+                "usspeech": "test&type=2"
+            }
+        ]
+    },
+    "media_sents_part": {
+        "sentence-count": 6,
+        "sent": [
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=9124750424542814363",
+                            "duration": "10600",
+                            "swf": "",
+                            "name": "special.2009.11.03",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=9124750424542814363&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "34kb",
+                "eng": "On <b>test</b> day,all the blind drivers were able to guide the car through the <b>test</b> area without any problems."
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-6522469105827384991",
+                            "duration": "8900",
+                            "swf": "",
+                            "name": "special.2011.08.03",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-6522469105827384991&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "35kb",
+                "eng": "<b>Test</b> projects have already begun, and he says the main part of the National Children's Study will begin next year."
+            },
+            {
+                "@mediatype": "audio",
+                "snippets": {
+                    "snippet": [
+                        {
+                            "streamUrl": "https://dict.youdao.com/pureaudio?docid=-3651802721598717877",
+                            "duration": "9200",
+                            "swf": "",
+                            "name": "special.2010.02.18",
+                            "source": "VOA",
+                            "win8": "https://dict.youdao.com/pureaudio?docid=-3651802721598717877&dist=win8"
+                        }
+                    ]
+                },
+                "speech-size": "32kb",
+                "eng": "A listener named Maki would like to know if the <b>test</b> known as the TOEIC is popular in the United States."
+            }
+        ],
+        "more": "media_sents",
+        "query": "test"
+    },
+    "etym": {
+        "etyms": {
+            "zh": [
+                {
+                    "source": "童理民",
+                    "word": "test",
+                    "value": "来源于拉丁语test.um(陶罐),在古法语中其意义转变为“为了确保金属熔炼质量而用来加热金属的陶器”,到16世纪在英语中其意义为“质量或性能检验”。",
+                    "url": "",
+                    "desc": "测试，试验，检验"
+                },
+                {
+                    "source": "童理民",
+                    "word": "test",
+                    "value": "来自古法语 test,陶器，特指古代用于测量和检验金属元素的陶土制容器，来自拉丁语 testum,",
+                    "url": "",
+                    "desc": "陶器，测验，检验，测试，试验"
+                },
+                {
+                    "source": "童理民",
+                    "word": "test",
+                    "value": "来自古法语 tester,见证，证实，来自拉丁语 testari,作证，证实，来自 PIE*tri-st,第三人，来自 PIE*tri,三，词源同 three,*st,站立，词源同 stand.字母 r 脱落，词义演变比较 umpire,裁判，字 面意思为第三人。",
+                    "url": "",
+                    "desc": "见证，证实"
+                }
+            ]
+        },
+        "word": "test"
+    },
+    "phrs": {
+        "word": "test",
+        "phrs": [
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test data"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "测试数据；检查数据"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test result"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "试验结果"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test method"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "检测方法，检测方法"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test for"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "探测；对…进行测验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test on"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "在…身上做实验；在…做实验；对…进行测试"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "model test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "模型试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "orthogonal test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "正交试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test equipment"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "测试设备；试验设备；检测设备"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "field test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "现场试验；实地操作试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "performance test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "特性试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "simulation test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "模拟测试"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "on test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "进行测试"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "laboratory test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "实验试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test paper"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "试纸；测验试卷；供检定笔迹的文件"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "fatigue test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "疲劳试验；耐久试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "pressure test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "试压；气压试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "tensile test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "[化]拉力试验；抗拉试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "load test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "负荷试验；加载试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "test center"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "考试中心；试验中心"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            },
+            {
+                "phr": {
+                    "headword": {
+                        "l": {
+                            "i": "nuclear test"
+                        }
+                    },
+                    "trs": [
+                        {
+                            "tr": {
+                                "l": {
+                                    "i": "核试验"
+                                }
+                            }
+                        }
+                    ],
+                    "source": ""
+                }
+            }
+        ]
+    },
+    "oxford": {
+        "encryptedData": "TNvL5RvzrtPgEpLHE_NgTvMMps7y4fRHaUEzdolM_-WBHuFB8Sgrf1hzjIJ3c5growu1-B4Z3VdilAVpWx8asPn3xU6WNYSofHyYnn4V6BaUuR8iLnUDdnp3ZaE0UJgEedEBdbjpbbQrPCjUlCKVk4wmc8ptvIgTSBfPTytE6r_lURvPPx1D4-G0r7mko3DwLjI850k6jUaJF45fAF7MM9UIt-y3_6gMy7YxdEFh5WDC0D63zlwqgUDM8vTqeVQ-2G9bEmAl1VJ55xjK3XikoPYj7899yPJQxG_OI_j1Kw8zOmcDqQ7IZnFCWJOC-fqATT5hLvWY7Tfx2KnYmIwb05Erqj0OA6B5T4GzqTE_iS45wJ7YGwYqy03WyQXRIm3COYv9qlxISstdtvSgS1GqWneTuRAHL2CYdGn-J8R19HPv5P-fmx5GP4fmo_lzd4dh6lDYAaY147Y8de_6b9TQHyROEonTfAS6X2gtgepc_x_glVQAwTKMAgLn6qVnCKGaRi8SIBRQu754bqSatrH7PHYeRDuGruKc1Q8bKfvVLmABcRjxVHi2CqaNe2vLBkzyttQDS_GUvDoWvGlbQuGv3c6nToJexKJksa54ejRejbq50DoPSCV4fCrBNhKvLJ2_jG002L_JsWcI46K5NKda7iik1R5FGM6ct9yr6YhjS2Po3dIpuhJ6hLCUMXVp9RJhWEzRjG2d4SVfw_2UaHubFA1A1FKYqSUhgNptnUErjnHLo93brpMGRDQ5glgNLqyfejYAyZKRu48iEEsrWws-05gAzDP3cHELx7uaPMtBW8LC65AVuYNdHCfhLjAedmRxkZUkon2bXxZOSLHRy_o5zM0m1O283654EeV7Vy4WOXtzW3jaXygv5G6DfyNYTtOGtGwVvDBZiLg-XDUkRlZ783efMEvuaU3-i6HoTY7T2bpTkF_7sjjW2b3IIFxLCA3HI_MAa2DTcFDvLuD7cY7_25oZIaHkaCIRfYwYZiFAjwy6OhF36_OoFYOp5-MuZzKquryt8jR64YRb2ucxQl_qJt2lYsh9EcNILD4zeNfGNltnopHUc_rLCbvbNuenGMkFwvW8RtoK8Wjc6ycBg9HxWf4vfyNQRGIQXSVPx1ruERKrcUtccuezpkTESOmCgYyjTRm7owGcn3ZnsXkfAwOwKUv8q5Nz_00zU_a94Xk3FUnBT9KPd05z0LQywhOzI8r3FBqeJ2QGuIC6wj3ureJYRY5i9UYbRuUGZ2pG21iiGihbzGxFdj1LcrrRVfX3X_BS31QyjRiBzIyoWWWHOxr9xviKjagLeQGlfqSdplOh-u-2OHGuV3Cpf9qT7wgF_lqqssfEp2cxNPoTketCgoWGOSQcZ6tfsyw_G7xFNFik2t4fiRlv-MYTu3c42pp4UKkozdagrdcAOgvvuvL7CGLYKeL_EYK5vu0KTNa8ic424NOyHS0MicaRs6zUqsMVGugOrr5JRyE4FgpOLIskPpApktlZTmQGLORtA1E2yfXxCGocsdsfjW6eal5fBAjJ7lnKd7FMIjIYG7bl_A1QGPEscScI2gP74iDAgqrZxhnOnghcrbGDwX-9TyDkbZReek5MCh41PB_zC52bwgWJroX-XmE0NomdcXvWBXsyeQlPbOOD_n9O6mD-5COo1YHmRznbfQsX2H4MXEwH5Bf8FG0yfndICwJ6EGa3wAGBd92PPex3XkPUuug0zCU42yoru3vWDEgQYUGWnCzczah9V7x0E_xWQf1Sw9VSgOzLegASd6WmdbmQm4XfWsI8A0vsH__O62mB16yUB90vi9siprP-BzR5VEsL8ao8jA2hPfnewy9gbjuyCsAUWwadY8GAAbHUJwYoq2uIEh6owzR3MgPWM_eM4OJLp1fM3XdOQtUlSlmTpoABMxwIG6HddfNAQLTS_TwCsB218LBK2d9seocOZo-6VOgm7kwFrpjGOAZHbyqIzygJEjEkpSh7FcgyYyVMvO4ujTx7dU9GKIwDwS7LfkRBXq2vivrUAYwECFDohj0CvfG2rBdLadxl2-pSbQ3dFNAiakKzTpxQyc-TG8ZAvN_T76rmc7qqDRQCvLib6uOhPvVMYubj9jbD2JanJSD7Rqh2VZGTaq0FuKCz0kyyVDUDHwhcYztAheNFEvNY7Oh37VLM5f6ZjZK4vrwJAHYOi4XOmn2Zp8dm3NF8CGJYdApCF0taX9eJyvlc44Uk0hOACAR2Y7JaCiG6teX_ChFc7dfpFwCOKfm9KRV0k2DFXmH912gjM0UA0lXCfB9JUE1lWYkMWiKhNQa1GzpPe7ybtHJrkRbIjED2mzaaqhIQQTNP2R2jcSEhrgal0rUuMA4t25mWoGidf4AvLhSTs-O6zHrjAcYieYrI7ocyBmHHnQMstngdRTlaYeMhebfEoe1Qn-hnLeM8MT3Qhf_JZBVSOgBr6lISf853m1aCLy73R_RjTWAVN7KrZzH1-tUAJdz-QSJ4ZSvBBL5K5ku_PW4rEGTR5-_icMLtbTSqmgaugaDTUpkgy3sR02a4aDmVo9LMpU54GUF4iSPu8XovxU-M0Juw25lWneGH4OVwIeJ6jC0A7nKij7ap86GwQyA2Z6XriDRuu7vasAvx764bQ6Y7LQYD29kDqtzQw-cdLhGpVcKlbokxrrbgl9iwX_mRC8MABKFPpb9PeEJGQnxngoD20R9bzGKqxPYoTp0ScUPnEEiNwyCaaL6G1bqDdkygRgdt08iKrg4LqfullrejLhqXsA5IPlIkt_Mn5hyaN6gBcF2PvcvbPeBXAeJdlrTGG431VykaTaK5Cqx8X-gB0mbV2E02ys0C51WCEz46a3uM60mFRBSQPaVkA-QT7bYxyrgLGViSwi8nCKdUiAOnX7UozegUY0uFIvBi8GFV5mqELwbmk2G_-3pnUQ4zFjHtc2z6YoQtoFgyGaqIBmW58mhriIsBPqFHLpxzB8wNKP9MYJfGcT9IdizRDhrGSx460Q_c1gSAGydr13_GU0ypGxqtpgMU8YoOnOekUVRb9qnD78dTs3NtdwACQ6hny0ZWbodnKzeH8ij48_jUuLUyY5tqaarH9jeyE8JOm8Psm3rBfWCefEcWF-RYSganXT89LoDc6xktHmxFeo59D2VZ748Jn32Ty1WxopwmkcppBlxoVsfrTW9YeQRBZGAr5wQgmzr7mftgZeLLFYgKrTw-7j7U9lZxXpwsEHRUnFR4n1ftNd6FfNae927lvBFQ5EoHw2Y_1J-hTmc34doxpE7bSjngBqwDCLNO5dmgKaBIv-AJNE-xhiQzBf_a55NbffECYZNEoUkg9DdpbA-QTGCHTW8V3amABN8VBEI_UsA9vRMGvlWOGpduK-mceIcwTm3eo4CYDMT0usK58_33xMGNh-95PZzFjGiy-8qnHHffpVbrObUWssgUepYA-YwXYkREQRKskgw_p1KTFgb1Bx5J5IF1aUgogHVVNudfnZlYDz8nUUvwaVVrioUmthMeEoDpG-aRdR8kEkTRFJI15b6gDauv0EtrpCTH8mKZ3ZdZ5rutcSzXauFruJykLe-EsD_W4VpG24Lq9QkeL9nRgbD4Zm9ZG-JqY4O22UFbWG7XwlEdvxEfTKx5WpVA-yeJktjmNExQZXBiS6NBm0zP9_yQo2OPDuBw9ivBFZrpQyzS9b8lophiEw8RcK0COHkrqfmUor-cX_plZx7-nr6ncsjSeKfmKN8K88rUNdG6xFcgG7HEkdW8fZ1cH7R7u8NRtNGA-0PNYnIgn8ZbKaUR3aZXgxAf0PXfdyxdNMj8UtK7exrqgRTHoqrJI2LclIfTo3VaTBgGdnWV668usdrE8WQeKbbMXMFT1rrPK09tliwrzT5VLNc8hKA-fzbFbFGwA2q2aXbINxB0jJ6_A5D4NqjRbVnwrTUbpn0yrsKet2IHUeB940ZBMy9QqBvZFotCpJSaIZRaLoFxpGPoUtf3TOTSbM-O337sM9Av9KltzSTJLs-ILrVMfyMzSOf0WjEYO_Up6QJ1c84GF6Ya2MRv5dMBIkskyZmBzztdnaV2F2vtITNAiABdthsxnDiQgHC5hbMVf8sTo0T7z77jjMkkzhScESnzx5tJLNbgqxUuUMQvJ27hbSqUmS1ojWr917hobh0JGSnPEKdt9q-1CsH8WpxXEki-qcTeSiANyx_A0znYdjEcfwkf-a_E4h0MAQIJH0nk8DPpTOqTk7WxCrLeZiEEcqxy9F25L85A0woGV9_cGnCjIJNJYaywfgC_4qIH1_rqRq2nJTC0bnJYaByUyzXHf-ZvbSqPcROh8ncfxbp3Igq-jruI-RhCPKR8WM0A1oIUnVKmZE4n2Bk_DfnHEUlU2OszC5eLew_vlCdxvJp-X9l_S5wM403Ggf_KJCPM709vCFcySHVx6Of1HA2mjc2f2SwrHiKmjrQQntJ7suakHX0uVrdyzLxwzAOnT6nCknE0q90bWDUI2wBjR9fkba6eBT7P8WfVUPZ9Vk-b8tDN3RJC2oK3R7YGSGmDCjZSuZEEIh9GmjZkUnM4-RaoC8lumUS9_uM9f8E_3fjy-FHRgeJTB08HqKlS1W4i6nJYTiWt2we9TxRdshpuhvcaJsyXLE4dnvrKIqQceayya2z5n1nZYLDA3C74402RARdgE0T7-j_aKPuCqlUCmhbJHI0Vww7byJ1VvjPMyaSu7U-y_jyozaqc6_kgXBnQK6j9PA_98U87k7lllIyZ45QIKgE0uwGd8SkLAB1Xoa6En9XKLzhf5oZoS83fw_05V-foyLNYr8AT-B0LZM2kzRrOhsLUsLxq6MtSDcTNLiVg8SfjkDX0sl00UTsqVZQTBG3TqryFaigrqixkCDHeLX-GTbNIUj8Tc467vCWXTFiTERiOLtMI3hey4glpvnn6u4bSIg0etwGj9l6qYPauoYjBbnCOxkbqrUufy5apnnMJ4vC-kfl0l4uutmFc151aKEL9Nzm2WtNQ1qROVnucgXEGZ-DaZW4JkITRjVMMpa_IjyHqI4vIjnULbcj2ccvw6_jFxr9QTzR-XZgEH5dGbBMCcZKDOiTJIJp01MIDeOwYXGf8qupniv8JIfhea8pyLAmTmIsmn_Wx2q_jP49cGFlIFSoCfyisyb1WBMPI7j_VMi_Nz4gpFWTSCzDiDPKwCWBPhsgK5DXTL2Zw9BVez44lwQsIUXiSPcCwU16F0gBCyQvlTCeqY-G_bBkCznxGdsIfsJ98XSEteusUCBs9cTqwnOAbLc7gxhqul54vmTMu9PeeqUggWspYtWL3-IMsGT4J1eaXw8ObVfZBT0GCUBgpoTT7XR8XtJFRmfAZPn8EQzQ8iK_GjEhdWReEKhm4JLKwFzc_ghEGOvqwsDGsmn6KxVSWrD2RCZ3XGry7uql9v9jbBE7NqrxTRMYqUnoj533Dtjx760r43zQRFvH2j4-JJMjhdzv-Y_p6cF336f6Tnylk0RbZonSuJdG3TG0965SN61MvnLN9Hm8coN1-FnERhR1txT4ezjj6ePJDnYdZ_Lgdoc4tcfctqtWdhDYcL1GmUhz_JG1SeVBh3HaSLchAjXgx_yR9-09qaYTFn6wVuly727PLFIM3J9LuTKFRSe2-ja2oDTjQGDUgoZZ9JzWSH6J7htAgVqfL9ZutJ8XpCVPTjsFnIhyyB2Hq585wdhaNfR9dUKH7aHm0ljYrbF_qmEcFGTEKGpfgRTRw2mPLlLg_NUkOx7K_7jasl3vXGAFQ1Wnuh1Zt1ZtfWYhd7w0y184Mdm8WptAJIzxS5v-KwvrlMN1dMFszNYsCmhLlevvsjHBAKb57xN4f3wSJ6QMPc9NWpFF4cJgVw5X5ik5UD0GbHoYyiEcZ6_VgP7G-KteyJnm-PYfNbCob7egTBIoeywRFMg1JnSvLHbx5aa09OcoL0Cvcn6CF0RmdgZK8bE19XQ7KDoJ3DsGWB6j5XA4b0M52hQWZNpnIPQJDj2jU21Xr-SuJ4ga1KiV0fJBZrXpPCjH_6wfHiy0c7bWfAYDbTnu5upUDko-_ghNRFZGC89PF5i-scvtQL27jwGFMqWfqgyaB2_nVyIPwzArgiZxv6B2E02sBjUCk72pVTrr37n_nNdKKj1ayG8uFzcvm6zBno6S7x2VS6SVs4zgh73H2_1FQPhyfKLRfAcHfd3lcnnMfmfXmKEOhvRsmnLTOOMXIQjuZHEl5j8WqdtintR7rjyRSjlHr3WGRKvpgeMCQVI0eLADWav7NcKwP4sd8LvjzH-yaxH7fbmAtVJw_QZwA_YmQng2o5vjnkUM42bqs4WzdTvw3tOyAwE4VOBIPuk3QbFwiMZDp7EzN1mlOJEc8V26Zlw1Qocs_iC_vRh06wD9BSKMyvNFYoSnMMwIfoWOFcIJcxOMu5YfPKnA3hEWNji6lNBegBjyuau0jLQ3AQjKLebE6d3FVBP0eT9LzlBz2mApdKXYDxlQZ1rQTKtcXy_ftlsU5OhXbpPWvOBUwjxQULqHKUQS-bZilsCHU_JcHngBtoDDKKNMKY33lkRz4lu0B1Ou3l0PTIQLti198LpWEUrzDcyFS0q1CjyU6aawru0rRdqkaGdCUzxPqp3Uj_4ex-87I9a3RopMOkbJ7dDy4LmFwuvJpor5JE_bOIXx-nnToePByyIV9mHpXpmO_bD9kB7hAevP-V82iTwshK0uzKCe1cK_9k1CbllPD1-4Z6aAGEUO37x5hMCsJszZ7KXB01VxU6Dk6KC5sMxQoqNuUVMwvSIzFFsxSceYKqXpq6_gkVTJarqLLI3SzfsrUD0uKw0k4rws0dDgwqOahhhbfKRsdOGh-Q8A8JczkyuICH1XkZWGz9kl8KU3xMd2KDBBSrMQd_cnq8w-FUxfaDrW3-ob4czDv1MiZk84FYAq1xTUuEAxk9IYIOEeAyIrz7eHCQzDFY30_uvfHps2YxMTa4EA-EVKi_vSwOGB9Sv26TA68AUquHwxoqr8N00P_yBBMx4QToiKFr3BucXAWbEGEVefMbfhZn3fW50T9XPhAoa3JaIXnqrLTNPdqnUfGRKZxpDNUZjI3pVkpfFVCiaAhdcfLKwCKjDknUtUnKdgRs8tRG5aG-4MScnJ2WBN9txDCyrH_jL-OM59oPKyDtQ_eTmbZ43AgzGewsCCqmVdGcq2bbyBiSGzCDOxz11CfwJHnyNw91qBohBXQG3HQj985-9JsoSB2jCga1AJ94RPqUgDbvHg01ZlARRfsHFhYIK7-p1yOOhC-nhdkrziJ_v7oqPzPvo04lITJvt2FPCZwJ5pCkF7QHBZfzeWp2piRN8Ei8r6nGKdmW_JL18wwjPxiaWRuj5ShLPUy7Vqya0lO05x8ncz97AR90hFD8Zea53p36UDV8n3FjidCIM1YCrwIjxh0DdW4G8c7AWUj_5UV8zUcI7D7UhzBsdIQ3IzLohn_oj2yMQuGGEAeVDSaxMa4wive4YlAqi61qCXOKga5ddsNy11CjlG22msCbBsrtH6sma8lYhbVIf2eRNjfibFTNZyW4zPLYWria7tj6_guvv6qThkAetyQYQn2-Bv71iEF4te0g9XQajsAgXu40kKU4h9uU_nYa4AF-oVYw9nZo6zUMUeHZHk3I99YLekFG0_nUSDVPMfQEwOK9AoCuZEylUrdHQYGp1ZL3w996c4LajTO-KKgF2kvsoB0vnd8PkGLKJwKpIg6RVhaasOQ75GjaDGVf9IOc6CgTbJ-ITEkBbG4HNgznssBVOwi61_0VCYO8gyqKldV-t_oI2EGrnsCc7WHEg7OVEtxXbyHU5hE9uD1p_x07mpBHC2bZl_O0lyVr48RQ1fu9nWuG0YkTXc7MQgRZQ=="
+    },
+    "special": {
+        "summary": {
+            "sources": {
+                "source": {
+                    "site": "NoteExpress",
+                    "url": "https://dict.youdao.com"
+                }
+            },
+            "text": "以上统计来源于2,447,534篇论文数据，部分数据来源于"
+        },
+        "co-add": "https://dict.youdao.com",
+        "total": "2,447,543",
+        "entries": [
+            {
+                "entry": {
+                    "major": "计算机科学技术",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "试验",
+                                "chnSent": "文中给出了部分  <b>试验</b>结果和应用实例。",
+                                "cite": "1812",
+                                "docTitle": "无人机舵回路及其新型控制策略设计和应用—《南京航空航天大学学报》—2010年第6期—龙源期刊网",
+                                "engSent": "<b>Test</b> results and practical applications are given.",
+                                "url": "http://cn.qikan.com/Article/nhxb/nhxb201006/nhxb20100606.html"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "测试",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 2
+                }
+            },
+            {
+                "entry": {
+                    "major": "医药科学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "检验",
+                                "chnSent": "结果进行t<b>检验</b>及直线相关分析。",
+                                "cite": "4144",
+                                "docTitle": "bFGF对子痫前期血管内皮细胞损伤保护作用的研究 ",
+                                "engSent": "Results were analyzed by T <b>test</b> and Bivariate correlation.",
+                                "url": "http://acad.cnki.net/Kns55/detail.aspx?FileName=2007162764.nh&dbName=CDFD2007"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "测试",
+                                "chnSent": "<b>测试</b>集包括34个样本,其中20个是ALL,14个是AML。",
+                                "cite": "820",
+                                "docTitle": "基因芯片数据分析方法的比较研究 ",
+                                "engSent": "<b>Test</b> set including 34 samples, with 20 ALL and 14 AML.",
+                                "url": "http://acad.cnki.net/kns55/detail.aspx?FileName=2009162109.nh&dbName=CMFD2009"
+                            }
+                        }
+                    ],
+                    "num": 2
+                }
+            },
+            {
+                "entry": {
+                    "major": "电子、通信与自动控制技术",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "试验",
+                                "chnSent": "最后给出了系统<b>试验</b>结果,并对结果进行了分析。",
+                                "cite": "2084",
+                                "docTitle": "视频压缩与信号复接系统设计 ",
+                                "engSent": "Finally, analyze <b>test</b> results of the system.",
+                                "url": "http://www.cnki.net/kcms/detail/detailall.aspx?dbcode=CMFD&dbname=CMFD2010&filename=2010019762.nh"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "测试",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "自发自收",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "检测",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 4
+                }
+            },
+            {
+                "entry": {
+                    "major": "能源科学技术",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "(提炼、分析金属的)灰皿；烤钵",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "在烤钵中精炼(金属)",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "检测",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 3
+                }
+            },
+            {
+                "entry": {
+                    "major": "化学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "化验：",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "化验；化验法；化验剂；化验结果",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 2
+                }
+            },
+            {
+                "entry": {
+                    "major": "生物学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "(棘皮动物和被囊类动物等无脊椎动物的)甲壳；介壳",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "试验",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "检验",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "壳;壳体;壳壁;背壳",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "壳体",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "壳",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "测验",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "介壳;检验",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 8
+                }
+            },
+            {
+                "entry": {
+                    "major": "教育学",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "考试",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "考查",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 2
+                }
+            },
+            {
+                "entry": {
+                    "major": "机械工程",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "试验",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "检验",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "测验",
+                                "cite": "0"
+                            }
+                        },
+                        {
+                            "tr": {
+                                "nat": "测试",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 4
+                }
+            },
+            {
+                "entry": {
+                    "major": "水利工程",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "壳",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 1
+                }
+            },
+            {
+                "entry": {
+                    "major": "航空、航天科学技术",
+                    "trs": [
+                        {
+                            "tr": {
+                                "nat": "测试",
+                                "cite": "0"
+                            }
+                        }
+                    ],
+                    "num": 1
+                }
+            }
+        ]
+    },
+    "senior": {
+        "encryptedData": "kGrPE-pCjVG8GYlxGzuhyKJuV9AywmWufl1fu4XfkHa-aVxJVgqv9VppiUpl6NbtTFrhKcLW_xHZFI0KYIenzmIdEWtxXlgr7j6v5eyfI7TFQ_jCwm5D-L2V_CHDG03dU8h4Wct7Tq9Re-vJ8gkmSx7ipk7ZiVLveQX6cDFxOg7Iy0NuZJSgPAjGvPjbpw3KzD00jIw15Un0TvWsQEDFZjPtfF0rUva8N3GY2HDjZoYr0MHP7z9q_N25fu4wx-9_XZ3Rx43QHl-JyRHgzh0pdJoWozhP-ZM1T01WNqVISrv_5CsvedO1f1gvKxFIhQm-CeYYlxDvvwlLmDEbk3RZm9p7YT1IgTavIN-28huvhGG_XlPrATjnEDh7j7DjMJ9QtCcqdw6WKgmguxcOoSxKesXjkmkJNx8ejdWil0imbv1RbNDZdX3MAHiNusAlpExSqvlQc9HiLV22CxWg2gEp8lFwsCF9jQLPz3vNoKHsT5-bK9N_Sy0FxlQuCkrScYia3hYkaqEPSivY09TYMT9OK4yvhzFtDm5DrxOv2NHU2Uxus-zeqXsrPTpOemjZnB_JPTKECG1_qvBvtLD0ftKW3FMuYqrJRXtz9NNOtrB7tMCdOuc_Vzj7PzubXDbiPmyeY7pHhsqVsgSJNgUvUZOhCech6H8Zz2qT5QbPFk6WhRWRLJ9mXMkxwjPv_I0sJT0OIN-no4_Fc7HIRa7cYfVyuHEo1bgfRUGQVXNI4WrV0fzUGzq8pXMlAd-h-x_Q06AjMMRenWzEpfd3UF9Aq1C8wzFBeSqHYeiXYtPs2TR8e9XQx14MmHXU9lYHj-_VGf6oHiBpJcWB-K5ApZHOMTzCIPd6IAPyCy8KvNJ7IiWY4iSFToMXEVLGTgatx0Q0eBDKtTgDmudAXbXb9_OJav-fVVTjUcMAT01YF4TJjJRS7ogDTWXu-3BN6a5JIpFqmn_JcxH9lkLWOxYsTT4weMc-OFsaqfb4aESbTbwuT9C5-M9b26AVe-w-sBLbD6xejFdvFOyrK-fmrBIOCt1Ay1zFOfx9Fq1uwpeNSO5PVRbKWIlg4gd540mj3xjhfF1ZYqGRwT2ZVQAn24uY0Cxa4ludWsATmCzIwWuxy6dBusKkSKo9teFksQsIwq0ts6pVCUobigpzXEzxr7fwIOFxzNZtKNNzzihyyB2UUMidRmbrlCVaEnC0LqfqkPVM-WdAEmHkKuFtT-hK8YK6EQtrzGQmt8_LU8sLxnERbVQFOuovrLlGOErVD_5IFm8CGmKjMOFswtHNQ4bo-3E628pGIyEYFnWTU-SGGxxDpkHUD6nWghXxzjOU9VzzBYrR4pzFEA-mmyEf1UA0Kons5HCxe4xDi7T4sEzOEjslSiv02jGvJUr0WTDuQOME6qV_VqaGtL3r2gMSzewI1h46mWgqg4atCM-UQYuHeMofn7T5c66rdzZgKEW8vO5WHxPehzCHbNc1Tslm5JVkk2nGLp2KULpmLmhmse_4G6mZBlXIss0QlV-x8G7opxNmHUvLbakhwVwsDw5A5wdx5ANUElq-2_UmtORYCkRUOyI5fKTOWX_CyHa-VAk_Hp2u-FvKZIeCdf6iaGTaH7U87vS_vDbCXgflrqIXaBbMxzstwx4ivT_WrPao28U4wKgXKcMZzA1fDi2P8bS2dsHpKwhhLvzedv62ir0jam3rxdYWxg0K0qwpxWxf6S17oJJnGlaqDXL3kSTD_1cGtVBcdF1m_IhT0lRoHD6GNk38FEkmN0KPVe20spJY6viglXah8UE4X7O5zH8yOy6nrtgaFiIbPCjeI1PaVGo59e2pNF1qVyjnM2s1AFVmpdmWfMimKOGmXE0Xy8fCUM7R217k2f6dAWbBy3Np7TNJ7wDGGbK2n6UdWppC3DByma7qYJ7JMOYV7P8jpqMchIUME2Qyqla4NyxJxlWvbOTCcCzvvb_KbNygB53S0UIasLssnsPB6MjSIopKDLiRbaSc29Q9I8bQG-LSGJhLgU7TmOSSc_kX5_S6Y1cXt7nY_6qB9Y1Lvm115OTH8Btowiw1cfxWH7MK7KodiiBdYCng-Kr8WWD8-S1V7kRSHna_HbQ8wGlOJoIL5PlxU_OkaGoaabwGWr9trUHxfKMZ98sccFavhmdtZUvrA-rzDRiTj0j8AicIgNeu3wHkfhuqkzLpsW8gzAtjYDgbGXwnbJ77_zsgLHIOdPdXgbt4YY2w6EHdbDF_QdY0RNoaVaO1z1gPMJHolkKtpIBcrodadgTM1AcYE2wPhY7Xm169HcRjk6iZNpzBpTexI8yKssL2N679xc03omxArl9dCCru7Onhluw2HEas7atifjmpqdjxdmKNtQsCaOMbQvIkgu94ZtwBwMr6nug7JW7wp03ZEHVw8SFEwUgtcDyLKeENLGHbw1oTs09EYbvspeS5JpJdT4zTcm8srcKOORd0SeFUZGuRUs29IKfxp0i3AbO4-Tcqy3_Yup4je-I2c5Js4iEp268ijTr1diASJEib2wcyXHENz1S2FzbBcADEn2v7bJlgLkRvHzFpN11uzWoFZs9WWgIjJjWEAJPT9RPrAMpQkLa8dqapw-IRbpXZmbpXVn4YVWuIEx4VBVvtqOHPSFbXI-55BQ7dS435Mh1GzGeiQm6r7iRaFwSZ3dnnPkAQM_TMX4Q28XSXkAb-M59TrCjjTxO4CaiAtU9tiirkWdqcsqUVSncUjQQhxVAnChe7VenvkXAe4nDnPTW9N__vIOuzDXU5XYxkruadDpweEqoED5OBuvWsNXj7BvDLVXabSXzlSej1skIL5958pECN90jJs0jFIoQSHdam1NCYORYs7XVBlMeQWclBkMNEMVqxWc8OUBZqc2kpmME5MCbFba6GYefbXpFemShcw0aP5cCNKhOhz_dF5dusIoSjOSW_KfXxL6S1uI_Sen8120Cp2tu3YNVm2Jcb6KSiBstp7mWdjcLR8H0niU7H7JLxZ7WlOBaqZ5gTrGZVML9uq63kBOHzwXHubx7i4ek2eld256ywrRerSS_4LGAim4L36Ix3bCJ8UWV3bCICBjPAYXWsO3uzjsuC1MRB_QiWPbGI2fdTUKGH4VkZRPw67O3wb3ExhPbB5FboC-vbBxKVBfpjtZvkwilvT6WW1uWKuKy7f2aRpP1jejVaN43KYsIf3du1UUIZOA85lOmPaV78FrBj7mZQrAgz3Kgaddb9phwJHlXdYHus0cmNL4QngrzEOduJLQCu3tZgJh0EmVhydYXyNdaOkhO04pG2GgSYaYcKb8Oeag_3L4IyP0dErts1xaVa2EFjsdMCUoCkNI7RkL4xYKZjXgrkHrqoZo3sv6Wp3R0U2eAbeHTtZ_ZeJDPk7lP5qwtLstsxXdKUvkGrUJbh2GJq3KHUZhYLHFM8S5Kvu8gHDuTS755m1xP47tZxaoTsmINm1IazM--JUaA0BOgYYN666LKNNtxB9ncwVACEVA3kJuAkd21sdsXDv7IVD_2V1yrvh8EKGKBXDmGh5Scij8J49jsieX6_loU4H7jGnc3mZB3t0MANORXsxvv1Ux1FssQBQHuI6_FgdM6MqGtWdMdtMGl4mMIQ8n2R9NG0KKAHA4Evobs91GboNxyfK6cJkTUKjB11sfUTRwoKleE_x0dy-I1LH_MOlsUd7BYtwHfcSzXplulyrGceyHCKQl97G3UxybcB6fOrSFI2hc0VqBU8xigvtI8Facwzl5sE4F8lVL--sMPRZbqViyrbLSsBpSuStEkALaq9ptSL_uvAEunaiQTo0oCA4AcbWjDsLLys8sulBJvbnhbmMNJ5E1PKPEuMJ6fEq9yghCACvPEijlL3BnrzptpZDAYM8kAbIXfYJymlVVa2-e1JPstC4pmlCrDZOurTDurM-CGbF-AyimHTdlIDR_zBem_8kYy9fxGsh9OWsx3BwbffifwzGvLutBoC6OMpDPNj8o6F16oXgVVEB8YcQgT1gsYZ4xcmp8vERxi0Rb5h7mLEf11zIK8expsyLM5LltqpKyCpVfdfHDhikW5_JaKCQmnUAk0dA3JmXCPZLnyq_oYotUTYWOBdtJ3p0u7pZ30A_cczaKvQ6kcw-TSyKWELfS_lrunl6X6hMu0xgdBAOapWemiS9fwigG2_L1lejDov63CYJHAe9g8WKDKiECeiAznj9rim9YuYdGqEm-0b0cKBW4kXMOOVMsPXzfoLl5AmnHAYGvQ-0NoeYcQ6oQz-O0e-7i4N5SfQrG7Snx38Zysqy0vzh-veRxo=",
+        "source": {
+            "name": "《有道高中词典》"
+        }
+    },
+    "syno": {
+        "synos": [
+            {
+                "syno": {
+                    "pos": "n.",
+                    "ws": [
+                        {
+                            "w": "monitoring"
+                        },
+                        {
+                            "w": "experiment"
+                        },
+                        {
+                            "w": "proof"
+                        },
+                        {
+                            "w": "try"
+                        }
+                    ],
+                    "tran": "[化验]试验；检验"
+                }
+            },
+            {
+                "syno": {
+                    "pos": "vt.",
+                    "ws": [
+                        {
+                            "w": "proof"
+                        },
+                        {
+                            "w": "try out"
+                        }
+                    ],
+                    "tran": "[化验]试验；测试"
+                }
+            },
+            {
+                "syno": {
+                    "pos": "vi.",
+                    "ws": [
+                        {
+                            "w": "try out"
+                        },
+                        {
+                            "w": "try on"
+                        }
+                    ],
+                    "tran": "[化验]试验；测试"
+                }
+            }
+        ],
+        "word": "test"
+    },
+    "input": "test",
+    "collins": {
+        "collins_entries": [
+            {
+                "entries": {
+                    "entry": [
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "V-T",
+                                        "pos_tips": "及物动词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "要么用温度计测量水温，要么用你的手腕来试水温。",
+                                                "eng_sent": "Either measure the temperature with a thermometer or test the water with your wrist."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "When you <b>test</b> something, you try it, for example, by touching it or using it for a short time, in order to find out what it is, what condition it is in, or how well it works. 试验"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "N-COUNT",
+                                        "pos_tips": "可数名词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "…对核试验的禁止。",
+                                                "eng_sent": "...the banning of nuclear tests."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "A <b>test</b> is a deliberate action or experiment to find out how well something works. 试验"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "V-T",
+                                        "pos_tips": "及物动词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "曾有一段时间，每个老师每周都花一小时来测验学生的各门功课。",
+                                                "eng_sent": "There was a time when each teacher spent an hour, one day a week, testing students in every subject."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you <b>test</b> someone, you ask them questions or tell them to perform certain actions in order to find out how much they know about a subject or how well they are able to do something. 测试"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "N-COUNT",
+                                        "pos_tips": "可数名词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "所有25个学生中只有15个通过了测试。",
+                                                "eng_sent": "Out of a total of 25 students only 15 passed the test."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "A <b>test</b> is a series of questions that you must answer or actions that you must perform in order to show how much you know about a subject or how well you are able to do something. 测试"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "seeAlsos": {
+                                        "seealso": "see also",
+                                        "seeAlso": [
+                                            {
+                                                "seeword": "quiz"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "V-T",
+                                        "pos_tips": "及物动词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "从第一天起，鲁道夫就在考验我，看我会不会给他泡茶，给他拿可乐。",
+                                                "eng_sent": "From the first day, Rudolf was testing me, seeing if I would make him tea, bring him a Coke."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you <b>test</b> someone, you deliberately make things difficult for them in order to see how they react. 考验"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "N-COUNT",
+                                        "pos_tips": "可数名词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "这是事实，节假日是对任何情感关系的重大考验。",
+                                                "eng_sent": "It is a fact that holidays are a major test of any relationship."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If an event or situation is a <b>test</b> <b>of</b> a person or thing, it reveals their qualities or effectiveness. 考验"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "gram": "usu passive",
+                                    "pos_entry": {
+                                        "pos": "V-T",
+                                        "pos_tips": "及物动词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "我的医生要我去做糖尿病检查。",
+                                                "eng_sent": "My doctor wants me to be tested for diabetes."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you <b>are tested</b> <b>for</b> a particular disease or medical condition, you are examined or go through various procedures in order to find out whether you have that disease or condition. 检查 (身体)"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "N-COUNT",
+                                        "pos_tips": "可数名词"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "如有必要的话，X光检查和血液检查也会被用来帮助诊断。",
+                                                "eng_sent": "If necessary, X-rays and blood tests will also be used to aid diagnosis."
+                                            },
+                                            {
+                                                "chn_sent": "…妊娠检查。",
+                                                "eng_sent": "...a pregnancy test."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "A medical <b>test</b> is an examination of a part of your body in order to check that you are healthy or to find out what is wrong with you. (医疗) 检查"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "N",
+                                        "pos_tips": "名词"
+                                    },
+                                    "tran": "the hard or tough outer covering of certain invertebrates and tunicates (无脊椎动物和被囊类的)坚硬表皮"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "PHRASE",
+                                        "pos_tips": "习语"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "该团队正在检验他们的理论。",
+                                                "eng_sent": "The team are now putting their theory to the test."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you <b>put</b> something <b>to the test</b>, you find out how useful or effective it is by using it. 检验某物"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "PHRASE",
+                                        "pos_tips": "习语"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "连环劫机案正在考验航空调度员。",
+                                                "eng_sent": "Multiple hijackings are putting air traffic controllers to the test."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If new circumstances or events <b>put</b> something or someone <b>to the test</b>, they put a strain on it and indicate how strong or stable it really is. 考验某事/某人"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "pos_entry": {
+                                        "pos": "PHRASE",
+                                        "pos_tips": "习语"
+                                    },
+                                    "exam_sents": {
+                                        "sent": [
+                                            {
+                                                "chn_sent": "她的很多食谱经受了时间的考验，这很能证明她的厨艺。",
+                                                "eng_sent": "It says a lot for her cooking skills that so many of her recipes have stood the test of time."
+                                            }
+                                        ]
+                                    },
+                                    "tran": "If you say that something <b>will stand the test of time</b>, you mean that it is strong or effective enough to last for a very long time. 经受时间的考验"
+                                }
+                            ]
+                        },
+                        {
+                            "tran_entry": [
+                                {
+                                    "headword": "to test the waters",
+                                    "sees": {
+                                        "see": [
+                                            {
+                                                "seeword": "water"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "phonetic": "tɛst",
+                "basic_entries": {
+                    "basic_entry": [
+                        {
+                            "cet": "CET4 TEM4",
+                            "headword": "test",
+                            "wordforms": {
+                                "wordform": [
+                                    {
+                                        "word": "testing"
+                                    },
+                                    {
+                                        "word": "tested"
+                                    },
+                                    {
+                                        "word": "tests"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "headword": "test",
+                "star": "5"
+            }
+        ]
+    },
+    "meta": {
+        "input": "test",
+        "guessLanguage": "eng",
+        "le": "en",
+        "lang": "eng",
+        "dicts": [
+            "web_trans",
+            "ee",
+            "blng_sents_part",
+            "video_sents",
+            "rel_word",
+            "auth_sents_part",
+            "simple",
+            "media_sents_part",
+            "etym",
+            "phrs",
+            "oxford",
+            "special",
+            "senior",
+            "syno",
+            "collins",
+            "meta",
+            "webster",
+            "ec",
+            "oxfordAdvance"
+        ]
+    },
+    "webster": {
+        "encryptedData": "cIUbJDMFJ-sQnHQaxcn686AGLFMUeAYYINa2SvN6XgBlKnBIggFNYt5CbL-FEOoIdK9GU4or4jtczsaionZqEtaiXT4XwtVlqYtfwAAzjB7HKvdjdlYg4XHxHhvadcV5X5GA-aK_HunPm2FghP98yKcrPI5KsTCYFNB3a_kcc1HwtYKhti8wKVGggqhwxqLDeDN90oHv5NOFKWM97I0rFYeNe4tMbG3ALaerv346XQtZfiIZTTEMvIc7AfDao7p_UszviB9BFhVazEYwbwE3RurBdl8b8S8tZPdw0xNVB5sJVqRjZqvMbMKevwO2pH5GYev9QgKx-9LY9hB5MJV1ZgLN6cBe3uR4FK1XoPGqoLQd-QCdc54VDa9XYZ7tShNGIaVdpzgH_2Y1ilA9YA-xz1e7mvzuTiKa6vcBp88iuVq-SRqqEnTpxQ-RG5R1dnzB94OUNFcLYjRBXTmAz52mPwQmkmyXd_UTw2e3Ev8qJBubxX0pFAsOg5eHdogCiJ3W2ZPibPiRqZVgJ4l0vrsDa8zfJEFyBo5CWKvXbo-dc0E0PgM8e7oa8q7i_c6XLHN8A7YUrO_QUnf44hzdDV6tI-TXI_M_Kii_W0DQLlFOcouKfa7U1hj0-hkwhxAZLtcdvBmznEasvjB3ZGxHXvFgGs03y0JwZY0gjfWwJSivakP_44If1F8WzUlx2jw5W43y0yIeKYZPxV-FW2cLKmtf5GE6fEIsQ8-dnH5VwA4F0QC-pWQR6Auavj0dbxkwOL5jlMpQmIhysLGRYSNSXMsQVE1YyH6DnqiZwEiEXwNlgBH8lE5Qc2e15t8KWZzp-NDxYpOiRdVU9yy_7TG1I4AjuhaYwzHE5xcr6JHNLpzdyjt5P3G4xJ55_L7O1Ll2h4s9887Kw4NaChSaAUnK6BjRt7etlaeGe21FZH5IFfBsI-yo77gifZD1YRefwy4q5w3B5nF4ppfpls0J8whptN9Z4mptzmyr2jOGtGgZiJPjgDsHK2xLXyUCH6rU32LfNjuqRXWY_KAU7kSAWtUaga_Bk9tTjgC2hvw1vC-USEbTZT1xgkFEZKj88iM3QjVUi_b_oz76hQWoE8YEits1qhKC0sbnpPuA7Kom4BjgQ_ZNq7faUrWzjCXIPexBLZeU9pKPgUs4ICcuabNUV6_1fEmbPFDDvJD9LdZvBu4_YDaRV8zBw4J2ITTc5zTpqnRIq-mKwEvX5CeNE0SxUvC-3hN-ILfcs6VtrPUgwMm5MrR9C68rffGSzei6PKiZpraAl5IBYnvNewZ1KaOActpOkliU_5cBdCBlv3RP_8yp1hhLbk-UddqJto-m7u4j_5OaLAATPnVL9AAwjKWVfWMzCGWPpY0Odvg13UsbyKQybbZtrJ1u61KkPjlUX4llMHxrdzp3qqgJsjlJokGleXTt199dy_8pOCRDafb26u_LwepcgXE-Ii_BvBIr2jwygGqwzf8UzC1KZe3w07eS5P1c2VWO5nee1l0yLVGIRK-3lp8SL3ErCc1w26zcVEg5gSCz36hbhgBFNGtSTF0H9gxSox7NO26f4WIA1LR0lC8mq-l6dsWlF1FStUMm8mbKqHQ913JpqFdVqIVhe3A8FeyJ9Smpgb9MfNTKJR_9E4Cbgd7MBks9o_SE1Pb4zCMnf3jVFJ9nH50E7d9cAHK-5YxFrB-3CYKZIenKibBf6JA4M8vlfrl5Zb8TZVeeSb3DmcRWaYKcNcJOUo2bwPpEZSXX758UayHdLnpU86DsRxusPdaTYadKCI6bUzkUg17klZtx9uXAe7olMKBH8KRZLUAJ9L50lwKFkAgMGfYhz9XIcMrxBRpafTSvFFN4p4UszSjlwaxqoiKTiXyKuNvYPhzmFi3U5FE79g5rjZOT1PX0I_orUwQfPIR8KCqgPfoozhrjQ19qApAOPlQL1M8wmCSIUyphAPbRLoB-tLBtK90P_FogdB0II48ySIzSdzGXBxXqalQCHUYCVlC82gsdIPiVjqty7gJQFNZsePHCKggotjePD94-EayV_zhGEwwxS24DdEs8G3KJwOoAMToEsXL2Nrx6A9qNBjW6zITUJdRMiVyz71s8Ud62tNah8AvyvxHWNIrFgTOHS8aACCDur8_Yiy9DrfhdrjlbgfcAT8nah4GTKcoNtfOwxAacckCsXcjMW0Pq4uHzMp3lPQacsfJmYuY83OeBClQmmcgW_t-MOO2NAfX43dlQjkM1AYhCMpwZtdRwvVAf0KyCTa_AXoP62NHalPKmLjAY4l8OdSYzpNBTtJtrGUmCHKLN5qHzJ_3844bqqkq4c3u22CxLHpH5PRcc9ffVGLNEtVzoAtcx2-FNaIbIddxjL5sdXJpET9XopPKIFkNphKRtJ3pBS5lTwSsnHFmey-UzZSdUoVgT8sqAPi1N7gbGd9U132OumBvK-TCqQqePrGsFUhC75PHFKODAeAH8VsSAXm107-IG4q2QZVDPIqMmZXaq-dKcdF3zap3RJU9HcVdhA6leIB6e2ISBNli69QcTnVuvCJ_aU7aezY_cVRnpC_i1xKYDpydV5jwDqrTC1v6WZqMuEaqRCQjglCZB1XMtaj54-5pW_XM-erH-3uTKzwW-bZh-tsbMbMBS6SyFzUjyRicZvszt1ARzRaB5wUxzjidJg0IJ44sjKgYC58KcF0RBZrkMWyouyQ7ZNeWfzXCXysGu-YnaahELY686IfOhmYlrqjbJbCgVANteP-_zVEHqTjqYXbukw-zJIvYCAD-c2udGUDDDUJuHrT_MMtF9l3LZXev8eq752zdnizU2IOjG8DRzMo_JQY5EJu_6PVRp3q9lqX9nYGGDl9ThFwyHH0GYGvBeUuAnxvaLTkphQk1-H6xTrlngwVUBUWznF3Q5q-wJK3dzQMjFBst2_HrYhJ-2p9LxWZmI95RjL8mjagh7BZj6WGg9W4wlt1Udh9UlgyYoLfEuG7_9SFU7skP-Sll8Yj-X9AFhnVW9xX3lYM0b6C6EAkomMzxDqDcCXZrnnzwRKH81Eivry8N85rNPKGbA8w3lH4UQsdOpOtMrFpEIJXjdi-BoLECsTgfAhJUwhLEagwnmqS1hVu1yyo3iRrjgEDEbtLioTm-LmjBmtL7Umu0kpU-AoJ_Tsw7OP-LEvPwCCbiS4orDxAdesXxuolzh9RdNsrpWrlANNrs7wtp85Ip4HJoG7gfGy-PDjjV9An1WaitddtXwqFfwxllOAnEeJh3uyWBBrlm5tIjdyBIdQoApdr8MKJ6IzjuPDa4q_F3NzQ3KphdXTgl_d7gfGiaAON4KXE5MJ8wJquwGcyCd_msyjWKkCgVGCBre98_-GkseEpnY8n4rXvBJFvGEKVkiiRslJxDQFfoz5epbGVqjbZT0-x9GuM3AgftITZ9nFUwDdTnAcy3YLAR93fE0MlhST0GeX0MvDtL5oVxSU1c14O1b-sgSMNcUGF1e4blCGqBPvJ6SUY7lh40zoYbwlQzuUvJEckL73jfVuBk_7h9qFPFRAo2liQO5w2Wj2pyEb1CbsChK3rYPwAXuHArUcfE0C9exfGzhhzHJmjICTL7G2zJ7ibmx4R7l46diHCRuQhM-_2hTjun1JjslLkeN6eQ-KK55s5UCRvKzW1-NF4cyE_CNIdQOiOMDEa5iMfzJD6on3khssG9QCKKKrGZ4Jf8xnDusUufGb_ZQ_yMkk13Gy4PuH0TKSqYHo2iSF6YeG1Yzj2bfZd2xiK3B0LmXfz2oR5roTtKwWYvSmByIBme5-vzOcaE_U_HRAc2xEmczQ0s4kD-3hRvTDkfndfpneMXxLCxWD8umiwnWl3TpfEkQ4bTkcta-34NZhv54zkbX_S3ZsbY8hBmux4lPgf21AqhJ1K0-GB83M2COQAxnEzS793IPlHIpkNXgeNWcVS-Wrm1SjupBsPynBbYbQlCvs55Q1mhbwWwztAUmf5xPx_eY0E08IW57KkKp_2F91K5-aq07VxNtAnkrQeXEJZWWCuATh6wh8tKW9h7D6HT4JT2NhHjCAtyRaRfOZANT3f3X7IsIi3_8nSHmrL_zZIO3z2aJsdWzowPIFs0zV0NrtUcCcFyryVGkdbsKCsQmGc7m_Hoe5wzwoPDWE-6s9iF6CLnpqXun9Yru5gB0Fd1nl8wix_N-9ktOVNSE_Wl5POsia1H_l9WC3bAsaBaFJ5sGoAjjXlpUbiZ2I3yrvvvNAgE9oBj3H98j5QSHtNsZprycgM5kmtP9wa0HbhWbyaO6Ma963us0stKamKAyeYMEtyPMov-arUad6QjmuuA9UbIw9ythB3UFBru5yjPf94P2QRlIQKKAGiLtGjMtrt3vOApLnMXRrxJoEBL8VTRE29sur1uivoGmPK5YaGAX-08es843fWM8aodOKhOfNOOpjXtGAX9HwrRY9u7sH2ehzwfZbXQ0UQhwB6t2pvJVONius-ASAPWLiSOsot8tICij81zHEpsDa1F8aFnB32x8oEbclipMBeDoi3zTsBfhsaXklNP9Zg8NW4YMVbg="
+    },
+    "le": "en",
+    "lang": "eng",
+    "ec": {
+        "exam_type": [
+            "高中",
+            "初中"
+        ],
+        "source": {
+            "name": "有道词典",
+            "url": "http://dict.youdao.com"
+        },
+        "word": [
+            {
+                "usphone": "test",
+                "ukphone": "test",
+                "ukspeech": "test&type=1",
+                "trs": [
+                    {
+                        "tr": [
+                            {
+                                "l": {
+                                    "i": [
+                                        "n. 测验，考查；测试；检验；化验"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "tr": [
+                            {
+                                "l": {
+                                    "i": [
+                                        "v. 测验；化验，检查；试验，测试；考验"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "return-phrase": {
+                    "l": {
+                        "i": "test"
+                    }
+                },
+                "usspeech": "test&type=2"
+            }
+        ]
+    },
+    "oxfordAdvance": {
+        "encryptedData": "oGaanzGEv4TFGNkgbPQfjud8s3YxqQChkIEIrFbM1cBTZVTOYTNTITEN80WaI5wWdgH5pqSIioMNYDk4PAOfIXtzJ9xZgVWxMlmFbqg9wQeM8pr3xCVnxlWKPfFKAxU8pVN9i8imvpGz3GjrwthIpKiO8TP_goUEoMGrnS9KCYYorOM4Z5NhYlhwWc-LNLo-zZy0Irj0DQ66ht1ms509oL_Kwl_cWPITc2RH5CQ6Z_01-P3WWZPJwJ8a-PP0ezv2fSS9biYU1bczbi4qWdc_wZyDxJmTkS_3niY1jsNCvLu-MlFOpe5vyQhYkWP2ZAqLNcXpGrwYtJT47wKLIriaZbsXeoxYA7ceiyKbWRmH-DwixK6mxBEbs5D7C3NStnCE7UO_Y0UDWSVqGeCvL0qU2ygh4Qc3KKmmfOBKuH-bAMPDBP2ujOWExCM902kkS9e-gQkvBOvx6nPtAFY2XvHscuPZvL4uwRRGmfpyLT8AgXh5HYlO2BS7DFPpsZgo8mexrLJgcoxBjkiVmEq0PLV0NHe476Yzbwj2BSbdejhPBQ_nal4Alfb2vHK5-o6ANR2tYb613FR6AOXVV_J17yoxCg3Svmz0QkJkcFIAOxjHZeAKY9mgpViWPMRQGPcDzTqpJg7jAvOK7nQtC0ah_er9yadogOLuieue7B34RziWLlfGNHwvfsDDUKGMBC1vaOjA68Qr5KQSlbHJH-ZqDT-7gF7vfekEPVjtShQ3eFS2o7sxCPCM_MfDn45rKcV2OFhyGyzYn7fLdGjNSTg0V3hDVCyNQ2u4tmZo4_32trzKVVKRHNeHM0iwLqkVu4JTFb-1rU0czaofvbFoQzhACDOHlbzX7KRaA_f2AeYuzN-yl39FBGTb5PNy4mMHseCuoJZsXaCRAehPFM2YN0wWoKWLqG6SZ3fGIOi3-cF00R47DZVYpkgHMfx9UpSY6Y_z8y0lNqCpXfSKaUu19xAPwUu9X3fAtVBiSBn1cJxi_g_9QsMuveqmotC8CwH27pu26tbecscOmk0XgvA9-hwAOudEm0Abpskatfd5fBN0yLXv3rXoGDoNuL7mEzPS3qaflR0klNyZI53v5f7wl6Rj1isQMH5nCaXCXzYEjpFY4ruH05Fvf9Juj3OL-9nyF0VaGYNImMBNXO0L3xT99HZQj8h-A8Tf1S5JrJ9r_CYfTqhEiBfWMCQuh-Jhvop5uhH4ct6RjcC-N5GDzjsDgApgfpY7_dYkaYIu1gsB2j3wqXdcyKWQuUgVl1aU-zTVTKJIQ29yjhp2jGqZ70IPMrxj1GmA6MdgmU_T9BsV_GhaBecfCw7AjT1HunXalr_AJxQvrUlLCROQ5O74Val1aDNw9WdxYRPtzzmeOSmYSwlL7t63WZIa0TR-s_Lzh5NvtroZs-Qy5lCUyyVvaXPMJV48HLmAtY2rYGq1sYKqHPADOUdM8IArNCSG2bOzzYVI2OteKQp2ATyMnPpuiuPvITZR5qOAGhECs1ca99SlbhXINXbSMe0rw8CaAmHhkO1nnK4xbZLwUA2OH_JiRZY4YVpbUZKFoIak6c9zAsudHc2UtAm4ErpyfN7hMP1lD4qPm9xpgIq2GIqUgJVa1G_jWTjxb4GiU4vEzVP8sq1wSGvc1iLwXuTq8r46Bx4VVJnr9IQ_r7cwVRaXEkd9zJKOuqp4xGHsT-x7EytaZiVkfVh9MLpw49NKt0N5vVmPBOBzafdG8l8jow2nhr2Pazxp0OTrkGUDJFiD9ytn8MmuoBNbm7VAdwzi6xHvnQofXQEyGB05kWvfjx6AqvzRmPC3BLlPX4GqZuVFQQnmtiTptlSB59hwuNHgEQ_BPgNtuMLHK2WH1n3W29Cc3iUPMwNwrVhPx0vfpr69PJIII49Lfyl--9veRGpcNo3OtG4wEi-azZjogMpFyuaqMAd56ps-sTbBGYXjOWfzxCMfGJqSY-bZD-oUhf_6H8mkMPbXdEVS9xF_uKWdHlSLNoG4jNf-dL2cOcikQ9ir9OwVBqWtUYH8ruXfrgljgw3iErVieGooH4fF111v0bYltg7XdPeEpgBp7S7TeNEa5MVhSoXj_8juETA_9aJLEwIZ5TtD_iYOp3BnI1p9Sh-qeBUKls7v6jd8MjeK-8Cg9ohOv0v33drvC_S9yy0npX_11iTih0cXsDxWGCP01-rz8rVWEuYZPCd2m1FYBE3q2Cbp-wYD5I2qlm984OAV5_Cii6xJIWdqw9VkZb8gGH_G3-IG8STNHJgEk_j7hYf_1WVyJNCu8VgL5lIi4VnprvOxwwOIkB5fhimvAsXrtv-KskG5vWNMxVzAg6xjV39SqSE1ADxu4Wux8c5tFqTdqiTjQaz-H4oB1ZX6FQBL1N3wQPcSWyP8aje9x4UaA68EW8SExd4YJa643i2NljQ7EhDUHu6dtB6umm2LnAGWc-AADc8gtFapxUsr_o2uARmajFqbNQcldJYJu89R1vycNT70jyCUzI4GZdohRf8EQCrOnL0guoemaV2ANPKAYAuQ4wakUHbDdAJGJdSUTb2eLmi4OzR7y2FVMeJW_xpBphAd54PUwKCnf4Wp9Yp53Hfm6kkFyZNdaNO_4iMntKmiuTHKZTGTRzf2jgU3mQ6hWjyfRZXnR2TrkxGX6c_s7QBuVHyF485KpbUQTSCuA9CF45QZXDeu4j1QHarScY-4Rp8rPyvr2-EET9dmW-2wBxXq7mke7jZo1LI1Hf0IX5gMBiTNml7AglS1q-ZhIEyYbYPhtJEFkDGYdr_okZWjzJHwXGr_wkO2RKCr31jpCglMbKt-9lD3_uxXqMTWtHLRJXpHv0ebm3XKSfpx8w3lC2j3OuZRJQdX4pmIkg0B9MF_N0urejm1lMyBSmW4KdHsMbWLkNAdnQwYpeopQ7EVjkRXGg1zHT9Bgi3bnkoeAA__AiCGPmPmfAemoSKh7meI1V4q7eWHN8qI0KFxXHPLBcB1J7KKRMcauGrULY4fxdRVwfJbMhRB88zie04WebQDVmA2jlM5dZjpCbNHYIVtGM-A9NWBHgWcWiXgk_AqNWUxJtWsO7_lhBWL96Fc8SK3-I26WH8z_pqnekn6FBt0qVnBylPLrTkS-L5fzyJ9kg9PNO93hkWX2TDmFx3lyZKQjg-Bh0kXzGaXmE_a5pJxBkfBtdZyeyrg-mubCUtXlKkWQo8x_eePoWdiETKSp25CjhcndAOzoil6LdzB_nfzSGV2MkQINCnTCI61TMXrU3T_-9JkR47PI1bi4Bw5vrMUzXz-WUMeG1xUXa4X3LJZcyo98fGc4S7KGyxxLx1YXXFKWKCWxUc9e8UtA_Eon9z4csIXhfdniv07s5kLM6NQUcLD-HdjC2YFCnC0uh4zdf9uuizMNhP3j4Iep5kGtw0lSTHsjf1h5RPT4AI5Gdm_wq8jIyx4WDpfzkXr4_6dD4mFWdl_23SvMZQFpZE2tiRRG0EpMTjaaEiA2yhlXyjzOJXKVwe3woh2wC6jcLS4R5Wb2i-DulHBF4obswIizXKldaQDfZmpGQnj8IyP8MDK2MwsJFxbmzGO331rmSHdrDnbb-euodbSCFf-2eS6OXQMK2SfblX9d8ltQ5fyT2wKMc6QX_TBlVZFOB9bnO9llzFGL1WRO3kxzp92fqYhy1kcbEYOJF4vy6gDHlrC5kgPS5HfHe7r7LAZbZ1fdG9vVmSDf0pRMfWFiteAti0hQlnyo1dmDZgC-uCrKCYaX6rwBpLtU454ci7GnSVFB-9kgBa-W83tTXD2cT2Uf2RzYLO1-yXkA5lhGM4q9hrTrHdIg2b4q4hU4HYBjiaeWEPTMSOL4N2PVtLaG0LovlUqloeozeVt0IdYLkBcit09vUlYG_xB_JQNbvvgYKJCu9IXQtbLS6FoKX5u0X1qRgKGRXI5MrTcypyml6e4-x4T4KEE2JuOw5DW-5DLlF-shQvMQCeXggme7Bay8XILLCbdY7toeTVfD-thXPgvzXeH7zKa5b0QUcsc5Ii6205OEnbNWxV2rihLAGlna80FxG-JpZCUR03yF8ko9zHg4A7i6CV6kvtxVmu5T9_FEfDjodQ_Uj04txbxboCFzZ7SW0_lPkJ0AC5nGvlZ5181gx6eKqNy9ZZK_nHCZ_vqDcmlj5oa8ABgi-Roge6SWOzs0QYod4sgp5J4ryTyiezttY7yPpSuvwR4Res8oO3YiBMqA2ezr9bw5k_FWCYnd9GArq-8omIy7wYEI8WnxlseubO_LfvUZNbOzb_Z4lsqq9SKVIZ1vps1D_jICqiI28wSfw9MbLJVlPa0w7VLt3nUba4RKWM64007p_F22JL69ABzkH-MbgaqRHYFNBIUrHtn5WQzC2M2cK3wrVXRN31jEIqwXJ7I_uyzrwDB8VmBe5CTexzHtvenv7OmJHaIJu4cXjRBNoZlRDcr05OHk3eulUOV8cLhjmk9T57_62Bo7Bbn3DdXcGxFqJ9WtPGs0ubLVK2IcPELAEphhc5ERmW-iW50hVvoLJAz0fRpzJqrdZT9bZbHxq7t6DAmHvfs2OOJ7Y3E5jKXZJj2d7xE2cXeSZwsqt0pKCwFYhhGZk3bbF3TjZvhJm0GSJoVaQBGv3I6cn0brQVBJvXEeYbjLBx_rtAJUZ59R5vzxNnjjGcz80m73qnjlofGzjxI0GnVwaEUIqeuN3dqljut0Ks8s3qEsknnUTHM1s8nydm18gqyQ-bpEd8a44KlUdGeh4Xl2y6sMg59WFtR5BzP0p7YCcezVGh48JX9LNPhooa_lPKb_yhhuaX4Kth2EWY8eKuJlQ1ZHnY1Y1-vf61XMQpp-6qjTJmxHbrvJojl1u-f2l4MFERf4j4_f7zU_zkqinQ_voiQP-_vy37HwnN_XQsEfFA0x8eU9xsga0n9mVySfCQVdcQ7rM3MPUx43lJt4HI32eMxOGnGclGKQSc0u_asUEze8wKF4q7d0MSFFHfAExi9vylwBlc0sMEO-JSN8GM4yefChIgssGCkbaTlqTlZo7WJH68VmDyJMmDEFO2QAQWWOzMaoJ5u94Lb8G-baPe2dYuO5ozFF5zPLPivH0CP6jQV_Q7NplKQoUhmmI-a6_u28VsDzXeKIjLZKMs0Bgh3cPFL2q3Qmr8gUE7RMJ0EBY_nYDfreyfXP3o6Rh8J15JwhpufuAqbrJ5ApGAW8fPBUWeslFKqyox41ZwMJpe1jfsiYEh-F3klUcKgtWaErdcBGUN7RteMiByBHRusqRAhkw64FwZrQHvxoe7s0rWGaGUATr6goKvFQFuDUf5IYbM_UGo13InBCkkM0VnBYIWSd6XDveJTn_4t2_sEUavwQlGj_ZqtRKSfk18nJ2NsE1sMtVUCrs3JEt1a8Y6VW2ZrUpO19Kq37Q07PjhA2NRMPFsVkSFTKmc5W-FrFnJRTLF3j4lJNcl8TD_dlSR2EyUt8Gvwgd4fMaP8_8YLVLo3e5ct32arKEyJE0vVnRqcREnTBdY6FL1-iJkjr3Ebt3aAkBz47qC8PcFd77e-hrnuGh_xeBLLiKioCF5YLJkpEr3WmVshOT4oE6CPFvOo_gJnstQOm3-DRaUoSP-D5wFGKyM58vhmERFUTwlLLpqWNPCdHKeOEQZB4dIkTCNqJH8D5bGNIIE0QhJ1IMb3tJqiXO7mLYZJOIS9TujIFvaV1jBLlC2JOwM3DEZIChsT6Kka6PNVcM5CjeAqpq0XJvC0sTpwcZzr_ra5FNXGhAM49Q2wubqqJCyw77SgMpvtyaUyjhdigDlFshYg64ZvfXOrLVmSa5RmqVr6a3wOIoKx6avV7gJR65cuqvj1GNcMyeb0t1PV81B1wQhtRqqs11NmjxWxCcnavqrafpBRQG4P9HOAQxhvEFmseojaSfThZ_bS_I3SOuf8km2yya_XANI4r8n71QJqxT_QrBWwxWxKGQLKczDobehm6XgKubU2RniuuCIUpWVLz6poeg_FC06nueX02Eb3vwY903BizCr-50-msNnhms3HJhXj4vXWpa1uE_zViS2_SooApgSsudaGEEXuznHRk7c3fkk9yV2KjddOYaaYT4USdm-z-Zzf4zXH2sy2ufaNaNIg3dVGGTHIcDt6ofVE_sBEgJZ0btrwM0c9AuraAYqfyfkmcI_OJ5footNKujauHrbytZNwHQL8L3mOL2PacuNPuGAwrWcgp3vMct5icryRsqRHEzm3a9PmndKrq1zr3UjchrhEgpUwfDGYGJp4QaEVhfj39T4ukVS2qCsHRs_5juV1QEKkbMkIP_Ir3B14eQw0RZLELUVcMlgtvwzXdkPWO4Dvkaqhb7ti28AwBYApYCtoRO3ql4fSA-Auy8Zv_jijtc4j0l9dpkvc6oGkiXGwBWuvex292B_lJEhx-op_d8Xz5o3HYac4oOYeB7PTS6ARljxbRfvvNnzaevM9LhbwuY4DG1xICkRGyL7a9Sl5atvgpoc3MEjw2-sIoGzN36oB0NRYSMIdY2Fh2dlIXbIz5eXofgakTNuoXjApGnNLk8ykJiN8_kBfN9Rw9EvaHXq0xKlT8IlzeThZ5moirplmB5oY9xMBtz8PhdGTpGLGD-0Gmb_w1sZFjOLSlzyrqH8jPBb4qR80M5iqDktIr_-iGN-YJa2d4MzT0Ml8R66tdmRaycHHcjtMLyVoEMNIngDV0sNM4jfDYpnIpFeWTgGHq126MtrmvznZqlM5sk52lZ4vMpLzBVkf1DpCXJFoWzCoTfa4wO2ZqDDMNNYkPh_iBeMpVt81rGsXf-lacowVBzR4VHHbJKi7mWsSU7KRdN-GWGMvcgYKfCfLAzBt-2Yf9Ty49oTije8sDS4qnN4if7PU32blwWh99K0Jk8nfJxlRr-Zgt_bKmVzW_1gJSq6Za4lolKN7FI0NZlzbEk_g2whCSoV40vBkhSMCYcHvOQOczE4KMSEuzbN4TBlIvDZHjPb7xCqqtm2iJCTrzLK9yLVFhckNN05rL2AGJAGNxA6OWRr9APAqBjn9cPx-vc07V-3Ukn3CkBCmnIkCh7UmmKPHJyFWAWmZ7cDj5nBqqrW54V8P5o6baGF2OP4lRJpqFyB77Ltr50awZjhkurIRQf_GdMAtpEWA2jq_GgSnkSw34IvHGtHF1zimTf9mT5vkWE-76usrsLKMPoFzijzMUevAKrYAeNEYnp0Rh5absn_OdPfI2aupwIPPoJ4ffGynx_pPCUheUz6WCFv-SAtDe60G9AlUCr4supUEpbiMtFRcpb1M7BMWF3J_cYGhuREjjh78AWs-u3foIUVAcJbzQ8kastAdLHqnG7jGrk7fJJB8FDbp3FIt1ZOkJXN8Wfky2RnJz68ysKuYKM9DdM3jT3-ycwBMVlwbzMrIe798mhYIdG8hzKtfYqjPTedCEc3nJNX9QMM69xOQBXU5TjPQl_hTLp8VYlENXxjw0VIMkrIy40yjFglA2gq_zAFZfrfcV3OuTZvn25l12hk8yf_lJeycQy9mfuMUKCYmbM1SGMiOkXsJ88iglBnml1Gu7qoEmQ865jaOD76u2l7skTHny1Wa1_BMyrSDabgZPSh6dMVl9MNFEKEfAHjRhd1oj8b1SmRr5AIDaezT9Jbz7nYGbLhEvOn9yi-qwZaPeA52W5Ak98dRG9GiAX_Oj04M_BZb-sJmkDIEio6nPu4U1F4jsNXXCcDtt4QExFfpucvIhsiiSraG8MswbP2mKF-TkVP3fj1W1REE8zHjMkB9Bh7OQ8xyTKlemth7f6rFOFK5wsDF7N_KYGTqo6qchn8H00XYL4FU-fykESTMROoGFQGdxOLkS-yZx10p2gfvyAdQaVQF2GsC0_e3UGpb9hjyzzLJjB-42zpDt9Rf5kEflmR48-szvGc4sUpNGkXxnB1j_1dXNe85bQJcxhpwLgfO7f5RAHKxnS3PK0zbkCUl9JENbAnoCrjrRwqx3Thm6FMocDzRmIkSX6KDQBZVtTNgdp6cXgQNQAiFeIE4WkLa0AAE-iuendfEgJpowrbaesPyqc34b-Z2FwwNdwWm0l3hbjCEAdOJR5AmCaGZP8BeNzZjTf5tlPscVoNlahpN5tDVSmVE5fN-j7qKuxAfvKYEj2eSDpLu7Lab2Z0k-OYitRKsKPlCRb6-gYjavryxuHvFwxQeD6i_8H9Zk6uZGjwqHxXZjAJdOebIR8KK1r-AVdy5d3YMysxxQk_1RMxaQ_nS7NKEtzialvYqGky-UYqx3LQ4nqzgY77hkXw0eC0DOu91XPacNedyx0h2QFdU-XEMY_3rVc-nuS9eysgPrEwwtWmWdGPWVyGbVjDp6QLZjVycH4QIHeoEif7d0Ohoy2rqg_bnw7TnlKUA-6oOzHtzrp7EAUOKiQlMTthcoYLm2P9dsZKiyuAaoFAAPuI6rRG-LWCDa9Z0BP47RA53riKaq0IhAkDlURa8X65aWj6nLJYDGyklDG-Z8BKTJj9_xyr1X1uGocQADR5Oi8p6wtIlrs20Gt79Pf2gH5pT7uyG_xSs3roATCF3nBvvKc2YsjhmoJtZRXCG8KqVjEJDvjxCmC3sO2mA1m-pD7gKwodOMhOZ1Tgwc0Y56mthUzZgKqh6nPNqrMNiEkN3l7ejRyl5tpVwAvVeelwhgidh-7yKsBrQwD39cPZYqcHxvbjrJyrX2vgmJHhbegnbA_giE5egw7MUzIotYJ6HyXagDiw0faZu6UU_iNKLvVfzhi1e_cAWlUqsD4HYuG1mgUEExuwXtecfNlEoKGfj4UT6aoZOFZ9XlqbJzYj_AgTNOgedWGaYQMt7fQ3nMNGRogn40_TLJJMGYaHsqYfxl-XNOi_Kykkj8XbNYIW2HNamiMjLox6vqk_8aQoU60o3XQcOWiLZkItBxM58V9uX472SQ0xQV48WXGlUl1mfygva1mhjthrcQX-Jmd6TlmOZYt-FTpfQ18DbB1xJZi8PhoqmrBEviXNy0aotrRCj_bZClDEDZdLu-snLWSISWIS039ZVlyMpzcKA0uRoWfAx5KzO0r_7IVnqlVr4wDISp_JuKn3SA18A2a45W-6uaMcVgqf3U7GJxsS5O2RwecMNRhvS2haw1zX4lNhWS2S_0Vd7ksccC98HQ2lWHttMnD8vmEV0EtkoCBhDJwl9_WVoxhgfz8KL1RzewkgnSeNUf4-RmZEiR3nUKmAp_d_1J_VbnzUbMylFfnZ4EKV5rKFK8sE99Fom8QThEPNB9x-9ZB91gzKaUEg3zSwQOw6KUGCQkhIjitzIIs3i70bLBlzo-lGHIBlSmSVnkzAmLswam3y1Tws_uQYNVEswwuXBjgs_Q_4_AYcrI1Q9pPrPHvluv7Ci5K2mL7s13XSFLkuS7q1HCNMyvpM98Za76RqkwOpbmHUGGD24-8mHXIy-r_oA6GtdN1CoaPwsmN5lmEhjb31rViZR-AVkw7wyiS19nSKMVCof8NCZf_I7SLf3_t8SfBEmh3GqCmyGCokajAHUwIT6x99mZEpmEu4-BTB2yInXLGlBOMAWQ6utxCmlzESCeM0A9NT6me8jer353cD_soHmpQBbgY1wXOY9zzVFPkbl1Q20XiDsKjb-6mZUBQwrZacBv7BdASW1Fn6GV_veVKFnzR1in7jD2wpwQ6Jz8vtXQkOtTcgRVxFkOMaubBxH67zaKsCKKjMTKV7JqxR0VGHTfl5b2AttrozSf2UiAN_M7hjhnJ1Zt38tWTJxI0T7CyH2BA-LreRV-SfwR7eI1EFuTeGtFFQjLRawJO0mnlPKbb0FKyUSL3LGHwCBblixZI1VdYDfZ_GRd7zp3g_p5Ouat72H7htNE5uPcfn7NTcI8MEQssmVYZRfsrS-TcoP89-FxqyYtVBy-k2vLgAYrz8AbiDIJHUiTLuxGtdXmD7-fTrzdTjn6K3_58dtJvIjNZQ2De1g748MZZjtanNd8HXF36xwrrX1h2qKt4RQWy5KIHKFHN86Hn0plnIvUVT-kM_P22AkFjmHVoiDoGgpAwuyyWKZAtZg9qp5W4P_m0GSZz575HI9NzQtBbHN0aybP5ZnZ2MaVUISeWd0dB49WMDMNuIB8kMnk4FRHmpMEFHB4denfxTGXTBRu5GBnut4TRaaL38Ft8LfDYvlsiuHkkLcMLy76bVrOZ2K_gmHfaH9iwdl0sozV0wTpvKF7PxX0P3bqzxV9bOkc4BSfcBgBYgVzdA6T6a25R3nyr1tlbis1vaPtbGjSK8B97D-uT16ubQcGrjMm-7sZ0fdIDkZaxfxw_lgJAUPLwmqpslPfAsSrb-EJ_eg2D2KQFssm0t8s2o58EOFKdFrNpnIblB_TEzoj-1wWePV0zDLBx1r1rx3vAJ7Oh9_FKEtooHAG_1t-ECJ6w75db6BCUtKod6zGd9sbNOxKOCLuZK8qlrWVCtCqsQaatU0V2SOwtDjy4Qchu0pvmJQamu9yc4yw1TNrk7E7dQlgUNIQkJJc-FWIyF3vePdxVe_Yc3_dQoB5UI1gCoVo_tihP5N3SedlLDhq3kkFC_QoiLzMChbLA9Urch-8hU91oXkcZ3ytf6RVItRGtw4KIoQN391v21EpufCtc-uzCOnrfJ8MJSgzNYu8GKLWdBkxY17OTyXrz41tq_LwUmUsAsqE3WVTvwlhbbhg3VJS3xdGu5EB_2pMkKxmq99EQ6jRutK2pTsjT7wNqgruvThmMwZVeXGEJB3-fozDHe6WLGHxRHTYa_KC9x0jH60tMHJnzKjHsSMVuagjUnVoAlNyufSn0z-PXXUxERRpSjM7HXxKsapZ8mSlejlX1Nde1MnHuToa_Ehtu5L3RHhr3qkp6nBb-A7L18DBhXZJ4MAmJEgQZG4VEqIoWiuJtMYREMDb4WP-0-BO8A9hGaDvEAJZZUX91pNPFJvi2mTXZvzyh1bItfQAQdFpGSJFnHpD8_WbgqTP-Oa77HVwS6V97GZyWCJWeiwlCrYcvUEy2wd0VsYxsB_e4481s2TJX5ipN-e6b5K3JXAuhbuVljOg259koKkhPNvYB6TTAhRJU9mo7e6btDX4NrYqOIWtJGgS2Or2uJroriZy0B_7AKJjQroS8zulOBcJRcmxBIGC-sJqTeZv2SeZ_95ULePJMJFYDap6gwlY6weEqFaXMedZLgspzp-hJepa0tSTe4cBLGj_3cHOqyWL09-j7MJo-qjS9AKiZGpiqrK-24c5F1oUxeCMi1Eitcb2KiMILIDQEw7S8C4KC12RsYc9gW8zQsoHx1CVjtRbMwbFUU0rB8rS4ui3ff7ZitM9Qi-ljYywLfyu8GhzUO9WtQ19woBnBjM577hRuD6Q_cXcjZqGI6KynLaOBAaYihjQZHj0N_HJllsAFov2C4GZbvcgltBmqva1ncrfAvwmO3DiHuVpMTXrTntitzMP9mvSGKWAW2mGiy0SacUG7HUEcB1Up8KHoxXsCK0KWUGPPEdmBVL_iONdXEXsFsplFLU3XeYCwZ0pflL2iq0lIVREPruw8H9xzHvAxrdnatQJ70WcRLvmef8EEQxQ9F9XYtdDCOuSZyat6MB6z9iU85gX9tbjRRrz_JlQo_cRVV0v9i4SGbRKSbvLmT0CRS4Nzkeo21cvpJJhCrUh0CVKDrChwNdS7pfU_eE9RCoj_rnaHNJXaeQ9k-e-SttKhpKkxIF-ZD453mgjoBn2peLf21UTwhEUnD6qxnL4lmDSJkFOvIhjZa9-3PhDGl6mK_tZ0rVj2JW8xiPJacmZYTzqtNRsCZ1n3LGUQizagbYTrw-rpxznI0ttmWA0AgHvwpLqlzb5LVIwgDPYytpK3ZCkNE0Dx8znM8qnR9vuzC9gJiMIAOFFFS5dnwAWd_gbbLVY0Hk8kElihN7MkMTnY6fdlsTQT16YhcNiR_i3TXgpJth5V66J2CALjxQrrFqhMABBrg7R2BNNd7-Gp9AO2GzbpPJXT25JewIueHaMOJ0N1m5jdh9m7ize8lD9anlIOFzWJC0v-PF3PMGCdH8FVfncu667Iz3sBHxioeRe0OW2FNiZRNsCihbvDwp1iIqoOlSOXxGnsd8d9Uu593aPuPdtM1HF5-BJn51TbFinZ5CmZF0B_9pW3tjuqv4AT8z1XQV1OBnEOr_czTAusNuqkd8ufJnygj28N3o8b28jXxw0qhIaysg4mLLtKMq_1d1mt09W-N4n2BnsEi0mE-up5DE3cSutr_3ENB_bK76eQMNiYQtrzVGR6NZaiPr1VDoXj1uhDLtSpPoD9oaviJVWvgYflXj6JH9wOWktfeaAoFu1aPHbvi4mNMWf-SCCF9ApzHbtI-3zYPa4BzeSgjQaDsspgDGPiE9gLwnzLBuO92Ab65wnOFX_Ty2eAaauSMO1Vgj55TkCBIqo4yrctx_N07Giwc1PnZjFjbqgxUFKNqtgzfESCfrKT-8YBYX0ISF57dnq171TfkM_nXXwntrJ55NCTK9xfEJhOtU4aih2zuIf-96oCeoz7ruaCmvQB8AA1h7uVqTp-m5FrioP6AsrOp4Qn6aU3yHxseNkyUqXAUAhqiJcbLP1pzcliEB1EH8V14bcyJtnfB5rahhWQovXBFjHlqUSbJBjgidk8BUauGrPNmgwmNUEsM-8cc0SIhAd0oIehc8ap8VtWv4pVGalYijjOhG1JtIlEQg7xNJaYRHS6GimDt76tZbX2bj1JfchhT_bosyizUcnbrJ9frJsedbCIGyJLjZ0U8L4GP0uUSvcxZEB5WdqEs-xOI8k1mhCs5MObpCc1STjS3MElms2MRXBC8W-BYwz0oDlINVIxM72L855CwSoPwKRfJpQBz88-Hz18Ym2YL4QEnnLhaU-UGPtmLVDwg1DsmAqgkZV_sJLzQjAPAN8JfBPF_w_Jb7dUAofoHOEerrka2tD8jic23TS3iF-2ltzc-DhU-PKvuZutyxwkhl5u2X67X9OwzfSNpOsp_p-6Gn1D9qpciOPSfGnAa4mjZBEc9xvJk1dP1pt4wvRAHfAUBfx3fL4puzk4HSfVdRMkORd5Dtosu0ejgHTyXxidvXRo3QlaBxOb62ygt6uh_YSL2j8YzB8D0FC4dSxogVQ9d9rHLiclgWD0F9g6jv86ShYN4ZCQcsj09Q2YzP-he7UxFqawAGN-9KjsKrelrgB3HATY80O0gY05vEWTQ5h_exGxxlWSuuzivwMuvhpRUmjcuHVjs5m2NFttztTi9xotOPX2hl99LkpHznT0AnWqp0EUtOZ7tLUGYwvjjgCZrGhpKFJqVfZlzcIh4hE-KM4C3YCCOKlk8XmhdpZW9lYAg87pNGJ82bgoVj8QDfpC4FOhqwe0rG6GtVlk2jcHd6xzDlUERPeE1-LhaDXwHbC_YeSxcmCXZ4h4Ihl0HGhumERTmzxM-fTFxglTDilfBIN7thbcICfQZuls7A3pJU3qs9xPOWrMYUndBJK4I8RPmtTGjH0HSHDFW-jFdXnyEd-TFLfdYAXcath5sIV5YvD-8gHFV7Ijy56r_TbuaNvVekaC8pm2GTBS9MDP2GGjjeDj7UppX23NPdh-dZuyT9vYgk5B-VnQ-_kFjrJfQZSNv_VEpSDemKV53BgN73nFSFoqKntHL72A4s6EWvJEtF4MulSylbE57YDrYogTvvVXruqimxyM4x6PpyPbs_yAMWQTF-H5zGjHkJCFnZxUaxZIi88RHagrAERPHwhQYoCP85JLhDrjUwQCBfQue0dNs0RrU="
+    }
+}

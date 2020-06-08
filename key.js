@@ -3,10 +3,17 @@ const sha256 = require("./sha256.js");
 var id = "应用id";
 var key = "应用密钥";
 
+
+function truncate(q){
+    var len = q.length;
+    if(len<=20) return q;
+    return q.substring(0, 10) + len + q.substring(len-10, len);
+}
+
 async function search(query) {
     var s = (new Date).getTime();
     var time = Math.round(new Date().getTime()/1000);
-    var str1 = id + (query) + s + time + key;
+    var str1 = id + truncate(query) + s + time + key;
     var sig = sha256.sha256(str1);
     response = await axios({
         method: 'post',

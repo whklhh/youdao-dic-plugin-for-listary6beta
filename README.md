@@ -19,4 +19,5 @@ listary原作者默认使用了金山未公开的翻译接口，今天试了一�
 将[代码文件normal.js](normal.js)下载至本地，替换`%AppData%\Listary\UserProfile\Extensions\listary-extension-dict\`中的`index.js`文件（可以提前备份一下，虽然源文件现在好像已经没用了），重启listary即可。  
 
 ### 官方API接口
-将[代码文件key.js](key.js)下载至本地，替换`%AppData%\Listary\UserProfile\Extensions\listary-extension-dict\`中的`index.js`文件，并将[sha256.js](sha256.js)放到同目录（即listary-extension-dict）中，重启listary即可。
+将[代码文件key.js](key.js)下载至本地，替换`%AppData%\Listary\UserProfile\Extensions\listary-extension-dict\`中的`index.js`文件，并将[sha256.js](sha256.js)放到同目录（即listary-extension-dict）中，
+将key.js中的id改为自己注册的应用id，key改为自己注册的应用密钥，保存后重启listary即可。

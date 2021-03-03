@@ -17,7 +17,7 @@ async function search(query) {
     var sig = sha256.sha256(str1);
     response = await axios({
         method: 'post',
-        url: 'http://openapi.youdao.com/api',
+        url: 'https://openapi.youdao.com/api',
         headers:{'Content-Type': 'application/x-www-form-urlencoded'},
         data:{
             q:query,
